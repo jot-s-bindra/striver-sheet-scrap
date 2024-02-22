@@ -1,0 +1,1646 @@
+Step: Step 1: Learn the basics
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=250
+Problem:  - Link: https://bit.ly/3Dqmgvx
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=757
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=1258
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=2110
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=2410
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/for-loop-primecheck-java/1
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=3092
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=3459
+Problem:  - Link: https://bit.ly/3DqE0ac
+Problem:  - Link: https://youtu.be/EAR7De6Goz4?t=3678
+Problem:  - Link: https://youtu.be/FPu9Uld7W-E
+Step: Step 1.1: Things to Know in C++/Java/Python or any language
+Problem: Patterns - Link: https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+Problem:  - Link: https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3
+Step: Step 1.2: Build-up Logical Thinking
+Problem: C++ STL - Link: https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/
+Problem:  - Link: https://www.youtube.com/watch?v=RRVYpIET_RU
+Step: Step 1.3: Learn STL/Java-Collections or similar thing in your language
+Problem: Count Digits - Link: https://takeuforward.org/data-structure/count-digits-in-a-number/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/count-digits5716/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=588
+Problem: Reverse a Number - Link: https://takeuforward.org/c-programs/reverse-a-number-in-c/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/reverse-bits3556/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=931
+Problem:  - Link: https://leetcode.com/problems/reverse-integer/
+Problem: Check Palindrome - Link: https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/palindrome0746/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=1235
+Problem:  - Link: https://leetcode.com/problems/palindrome-number/
+Problem: GCD Or HCF - Link: https://takeuforward.org/data-structure/find-gcd-of-two-numbers/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=2688
+Problem: Armstrong Numbers - Link: https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=1423
+Problem:  - Link: https://leetcode.com/problems/armstrong-number/
+Problem: Print all Divisors - Link: https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=1580
+Problem: Check for Prime - Link: https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
+Problem:  - Link: https://youtu.be/1xNbjMdbjug?t=2385
+Step: Step 1.4: Know Basic Maths
+Problem: Understand recursion by print something N times - Link: https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/
+Problem:  - Link: https://bit.ly/3K2epHv
+Problem:  - Link: https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+Problem: Print name N times using recursion - Link: https://takeuforward.org/recursion/print-name-n-times-using-recursion/
+Problem:  - Link: https://bit.ly/3y2BiWz
+Problem:  - Link: https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2
+Problem: Print 1 to N using recursion - Link: https://takeuforward.org/recursion/print-1-to-n-using-recursion/
+Problem:  - Link: https://bit.ly/3w3qhDh
+Problem:  - Link: https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2
+Problem: Print N to 1 using recursion - Link: https://takeuforward.org/recursion/print-n-to-1-using-recursion/
+Problem:  - Link: https://bit.ly/3LOkcBn
+Problem:  - Link: https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2
+Problem: Sum of first N numbers - Link: https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/
+Problem:  - Link: https://bit.ly/3C9KZ8G
+Problem:  - Link: https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3
+Problem: Factorial of N numbers - Link: https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/
+Problem:  - Link: https://bit.ly/3QugUVo
+Problem:  - Link: https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3
+Problem: Reverse an array - Link: https://takeuforward.org/data-structure/reverse-a-given-array/
+Problem:  - Link: https://bit.ly/3SRqzXU
+Problem:  - Link: https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4
+Problem: Check if a string is palindrome or not - Link: https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/
+Problem:  - Link: https://bit.ly/3w2G4T5
+Problem:  - Link: https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4
+Problem:  - Link: https://leetcode.com/problems/valid-palindrome/
+Problem: Fibonacci Number - Link: https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/
+Problem:  - Link: https://bit.ly/3QUkkk2
+Problem:  - Link: https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5
+Problem:  - Link: https://leetcode.com/problems/fibonacci-number/
+Step: Step 1.5: Learn Basic Recursion
+Problem: Hashing Theory - Link: https://www.youtube.com/watch?v=KEs5UyBJ39g&t=1394s
+Problem:  - Link: https://www.youtube.com/watch?v=KEs5UyBJ39g&t=1394s
+Problem: Counting frequencies of array elements - Link: https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1
+Step: Step 1.6: Learn Basic Hashing
+Problem: Selection Sort - Link: https://takeuforward.org/sorting/selection-sort-algorithm/
+Problem:  - Link: https://bit.ly/3ppA6YJ
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=166
+Problem: Bubble Sort - Link: https://takeuforward.org/data-structure/bubble-sort-algorithm/
+Problem:  - Link: https://bit.ly/3w6yQx8
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=1061
+Problem: Insertion Sort - Link: https://takeuforward.org/data-structure/insertion-sort-algorithm/
+Problem:  - Link: https://bit.ly/3JVcqot
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=1901
+Step: Step 2: Learn Important Sorting Techniques
+Problem: Selection Sort - Link: https://takeuforward.org/sorting/selection-sort-algorithm/
+Problem:  - Link: https://bit.ly/3ppA6YJ
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=166
+Problem: Bubble Sort - Link: https://takeuforward.org/data-structure/bubble-sort-algorithm/
+Problem:  - Link: https://bit.ly/3w6yQx8
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=1061
+Problem: Insertion Sort - Link: https://takeuforward.org/data-structure/insertion-sort-algorithm/
+Problem:  - Link: https://bit.ly/3JVcqot
+Problem:  - Link: https://youtu.be/HGk_ypEuS24?t=1901
+Step: Step 2.1: Sorting-I
+Problem: Merge Sort - Link: https://takeuforward.org/data-structure/merge-sort-algorithm/
+Problem:  - Link: https://bit.ly/3A30Anw
+Problem:  - Link: https://youtu.be/ogjf7ORKfd8
+Problem: Recursive Bubble Sort - Link: https://takeuforward.org/arrays/recursive-bubble-sort-algorithm/
+Problem:  - Link: https://bit.ly/3QV65vI
+Problem: Recursive Insertion Sort - Link: https://takeuforward.org/arrays/recursive-insertion-sort-algorithm/
+Problem:  - Link: https://bit.ly/3PxAWx1
+Problem: Quick Sort - Link: https://takeuforward.org/data-structure/quick-sort-algorithm/
+Problem:  - Link: https://bit.ly/3dsEbIK
+Problem:  - Link: https://youtu.be/WIrA4YexLRQ
+Step: Step 2.2: Sorting-II
+Problem: Largest Element in an Array - Link: https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3Pld280
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=527
+Problem: Second Largest Element in an Array without sorting - Link: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3pFvBcN
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=811
+Problem: Check if the array is sorted - Link: https://takeuforward.org/data-structure/check-if-an-array-is-sorted/
+Problem:  - Link: https://bit.ly/3Ap9U6F
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=1723
+Problem:  - Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.
+Problem: Remove duplicates from Sorted array - Link: https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/
+Problem:  - Link: https://bit.ly/3w7b6ck
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=1886
+Problem:  - Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.
+Problem: Left Rotate an array by one place - Link: https://takeuforward.org/data-structure/left-rotate-the-array-by-one/
+Problem:  - Link: https://bit.ly/3dnn9vC
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=61
+Problem:  - Link: https://leetcode.com/problems/rotate-array/
+Problem: Left rotate an array by D places - Link: https://takeuforward.org/arrays/left-rotate-an-array-by-d-places/
+Problem:  - Link: https://bit.ly/3dyCKZg
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=485
+Problem:  - Link: https://leetcode.com/problems/rotate-array/
+Problem: Move Zeros to end - Link: https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/
+Problem:  - Link: https://bit.ly/3PrGIjT
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=1633
+Problem:  - Link: https://leetcode.com/problems/move-zeroes/
+Problem: Linear Search - Link: https://takeuforward.org/data-structure/linear-search-in-c/
+Problem:  - Link: https://bit.ly/3KcpHcB
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=2465
+Problem: Find the Union - Link: https://takeuforward.org/data-structure/union-of-two-sorted-arrays/
+Problem: intersection of two sorted arrays - Link: https://takeuforward.org/data-structure/intersection-of-two-sorted-arrays/
+Problem:  - Link: https://bit.ly/3Ap7Onp
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=2584
+Problem: Find missing number in an array - Link: https://takeuforward.org/arrays/find-the-missing-number-in-an-array/
+Problem:  - Link: https://bit.ly/3A2pKTh
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=58
+Problem:  - Link: https://leetcode.com/problems/missing-number/
+Problem: Maximum Consecutive Ones - Link: https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/
+Problem:  - Link: https://bit.ly/3piuaAN
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=1124
+Problem:  - Link: https://leetcode.com/problems/max-consecutive-ones/
+Problem: Find the number that appears once, and other numbers twice. - Link: https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/
+Problem:  - Link: https://bit.ly/3dudCD8
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=1369
+Problem:  - Link: https://leetcode.com/problems/single-number/
+Problem: Longest subarray with given sum(Positives) - Link: https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/
+Problem:  - Link: https://youtu.be/frf7qxiN2qU
+Problem: Longest subarray with given sum(Positives + Negatives) - Link: https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/
+Problem:  - Link: https://bit.ly/3dyZdp3
+Problem:  - Link: https://youtu.be/frf7qxiN2qU
+Step: Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
+Problem: Largest Element in an Array - Link: https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3Pld280
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=527
+Problem: Second Largest Element in an Array without sorting - Link: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3pFvBcN
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=811
+Problem: Check if the array is sorted - Link: https://takeuforward.org/data-structure/check-if-an-array-is-sorted/
+Problem:  - Link: https://bit.ly/3Ap9U6F
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=1723
+Problem:  - Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.
+Problem: Remove duplicates from Sorted array - Link: https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/
+Problem:  - Link: https://bit.ly/3w7b6ck
+Problem:  - Link: https://youtu.be/37E9ckMDdTk?t=1886
+Problem:  - Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.
+Problem: Left Rotate an array by one place - Link: https://takeuforward.org/data-structure/left-rotate-the-array-by-one/
+Problem:  - Link: https://bit.ly/3dnn9vC
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=61
+Problem:  - Link: https://leetcode.com/problems/rotate-array/
+Problem: Left rotate an array by D places - Link: https://takeuforward.org/arrays/left-rotate-an-array-by-d-places/
+Problem:  - Link: https://bit.ly/3dyCKZg
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=485
+Problem:  - Link: https://leetcode.com/problems/rotate-array/
+Problem: Move Zeros to end - Link: https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/
+Problem:  - Link: https://bit.ly/3PrGIjT
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=1633
+Problem:  - Link: https://leetcode.com/problems/move-zeroes/
+Problem: Linear Search - Link: https://takeuforward.org/data-structure/linear-search-in-c/
+Problem:  - Link: https://bit.ly/3KcpHcB
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=2465
+Problem: Find the Union - Link: https://takeuforward.org/data-structure/union-of-two-sorted-arrays/
+Problem: intersection of two sorted arrays - Link: https://takeuforward.org/data-structure/intersection-of-two-sorted-arrays/
+Problem:  - Link: https://bit.ly/3Ap7Onp
+Problem:  - Link: https://youtu.be/wvcQg43_V8U?t=2584
+Problem: Find missing number in an array - Link: https://takeuforward.org/arrays/find-the-missing-number-in-an-array/
+Problem:  - Link: https://bit.ly/3A2pKTh
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=58
+Problem:  - Link: https://leetcode.com/problems/missing-number/
+Problem: Maximum Consecutive Ones - Link: https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/
+Problem:  - Link: https://bit.ly/3piuaAN
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=1124
+Problem:  - Link: https://leetcode.com/problems/max-consecutive-ones/
+Problem: Find the number that appears once, and other numbers twice. - Link: https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/
+Problem:  - Link: https://bit.ly/3dudCD8
+Problem:  - Link: https://youtu.be/bYWLJb3vCWY?t=1369
+Problem:  - Link: https://leetcode.com/problems/single-number/
+Problem: Longest subarray with given sum(Positives) - Link: https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/
+Problem:  - Link: https://youtu.be/frf7qxiN2qU
+Problem: Longest subarray with given sum(Positives + Negatives) - Link: https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/
+Problem:  - Link: https://bit.ly/3dyZdp3
+Problem:  - Link: https://youtu.be/frf7qxiN2qU
+Step: Step 3.1: Easy
+Problem: 2Sum Problem - Link: https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/
+Problem:  - Link: https://bit.ly/3SVYU8f
+Problem:  - Link: https://www.youtube.com/watch?v=UXDSeD9mN-k&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=19
+Problem:  - Link: https://leetcode.com/problems/two-sum/
+Problem: Sort an array of 0’s 1’s and 2’s - Link: https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
+Problem:  - Link: https://bit.ly/3dsROaZ
+Problem:  - Link: https://www.youtube.com/watch?v=tp8JIuCXBaU&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=20
+Problem:  - Link: https://leetcode.com/problems/sort-colors/
+Problem: Majority Element (>n/2 times) - Link: https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/
+Problem:  - Link: https://bit.ly/3SSpeA3
+Problem:  - Link: https://www.youtube.com/watch?v=nP_ns3uSh80&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=21
+Problem:  - Link: https://leetcode.com/problems/majority-element/
+Problem: Kadane’s Algorithm, maximum subarray sum - Link: https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
+Problem:  - Link: https://bit.ly/3dzyloY
+Problem:  - Link: https://www.youtube.com/watch?v=AHZpyENo7k4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=22
+Problem:  - Link: https://leetcode.com/problems/maximum-subarray/
+Problem: Print the subarray with maximum sum - Link: https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
+Problem:  - Link: https://www.youtube.com/watch?v=AHZpyENo7k4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=22
+Problem: Stock Buy and Sell - Link: https://takeuforward.org/data-structure/stock-buy-and-sell/
+Problem:  - Link: https://bit.ly/3Qrx6H9
+Problem:  - Link: https://www.youtube.com/watch?v=excAOvwF_Wk&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=23
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Problem: Rearrange the array in alternating positive and negative items - Link: https://takeuforward.org/arrays/rearrange-array-elements-by-sign/
+Problem:  - Link: https://bit.ly/3Qr3sSs
+Problem:  - Link: https://www.youtube.com/watch?v=h4aBagy4Uok&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=24
+Problem:  - Link: https://leetcode.com/problems/rearrange-array-elements-by-sign/
+Problem: Next Permutation - Link: https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/
+Problem:  - Link: https://bit.ly/3dug78u
+Problem:  - Link: https://www.youtube.com/watch?v=JDOXKqF60RQ&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=25
+Problem:  - Link: https://leetcode.com/problems/next-permutation/
+Problem: Leaders in an Array problem - Link: https://takeuforward.org/data-structure/leaders-in-an-array/
+Problem:  - Link: https://bit.ly/3bZqbGc
+Problem:  - Link: https://www.youtube.com/watch?v=cHrH9CQ8pmY&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=26
+Problem: Longest Consecutive Sequence in an Array - Link: https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/
+Problem:  - Link: https://bit.ly/3ApytAD
+Problem:  - Link: https://www.youtube.com/watch?v=oO5uLE7EUlM&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=28
+Problem:  - Link: https://leetcode.com/problems/longest-consecutive-sequence/solution/
+Problem: Set Matrix Zeros - Link: https://takeuforward.org/data-structure/set-matrix-zero/
+Problem:  - Link: https://bit.ly/3SVaSig
+Problem:  - Link: https://www.youtube.com/watch?v=N0MgLvceX7M&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=28
+Problem:  - Link: https://leetcode.com/problems/set-matrix-zeroes/
+Problem: Rotate Matrix by 90 degrees - Link: https://takeuforward.org/data-structure/rotate-image-by-90-degree/
+Problem:  - Link: https://bit.ly/3PqpeV8
+Problem:  - Link: https://www.youtube.com/watch?v=Z0R2u6gd3GU&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=29
+Problem:  - Link: https://leetcode.com/problems/rotate-image/
+Problem: Print the matrix in spiral manner - Link: https://takeuforward.org/data-structure/spiral-traversal-of-matrix/
+Problem:  - Link: https://bit.ly/3ppEJ53
+Problem:  - Link: https://www.youtube.com/watch?v=3Zv-s9UUrFM&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=30
+Problem:  - Link: https://leetcode.com/problems/spiral-matrix/
+Problem: Find number of subarrays with sum K - Link: https://takeuforward.org/arrays/count-subarray-sum-equals-k/
+Problem:  - Link: http://bit.ly/3Kn10eZ
+Problem:  - Link: https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=31
+Problem:  - Link: https://leetcode.com/problems/subarray-sum-equals-k/
+Step: Step 3.2: Medium
+Problem: Pascal’s Triangle - Link: https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/
+Problem:  - Link: https://bit.ly/3C95qlR
+Problem:  - Link: https://www.youtube.com/watch?v=bR7mQgwQ_o8&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32
+Problem:  - Link: https://leetcode.com/problems/pascals-triangle/
+Problem: Majority Element (n/3 times) - Link: https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/
+Problem:  - Link: https://bit.ly/3ULsluv
+Problem:  - Link: https://www.youtube.com/watch?v=vwZj1K0e9U8&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=33
+Problem:  - Link: https://leetcode.com/problems/majority-element-ii/
+Problem: 3-Sum Problem - Link: https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/
+Problem:  - Link: https://bit.ly/3C9uTvQ
+Problem:  - Link: https://youtu.be/onLoX6Nhvmg
+Problem:  - Link: https://leetcode.com/problems/3sum/
+Problem: 4-Sum Problem - Link: https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/
+Problem:  - Link: https://bit.ly/3psQR53
+Problem:  - Link: https://www.youtube.com/watch?v=eD95WRfh81c&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=35
+Problem:  - Link: https://leetcode.com/problems/4sum/
+Problem: Count number of subarrays with given xor K - Link: https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/
+Problem:  - Link: https://bit.ly/3PrvhZs
+Problem:  - Link: https://www.youtube.com/watch?v=eZr-6p0B7ME&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=36
+Problem: Merge Overlapping Subintervals - Link: https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/
+Problem:  - Link: https://bit.ly/3zRz904
+Problem:  - Link: https://www.youtube.com/watch?v=IexN60k62jo&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=37
+Problem:  - Link: https://leetcode.com/problems/merge-intervals/
+Problem: Merge two sorted arrays without extra space - Link: https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/
+Problem:  - Link: https://bit.ly/3zRzmAo
+Problem:  - Link: https://www.youtube.com/watch?v=n7uwj04E0I4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=38
+Problem:  - Link: https://leetcode.com/problems/merge-sorted-array/
+Problem: Find the repeating and missing number - Link: https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+Problem:  - Link: https://bit.ly/3zWZoCs
+Problem:  - Link: https://www.youtube.com/watch?v=5nMGY4VUoRY&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=3
+Problem: Count Inversions - Link: https://takeuforward.org/data-structure/count-inversions-in-an-array/
+Problem:  - Link: https://bit.ly/3PtLWLM
+Problem:  - Link: https://youtu.be/AseUmwVNaoY
+Problem: Reverse Pairs - Link: https://takeuforward.org/data-structure/count-reverse-pairs/
+Problem:  - Link: https://bit.ly/3UVC0hE
+Problem:  - Link: https://youtu.be/0e4bZaP3MDI
+Problem:  - Link: https://leetcode.com/problems/reverse-pairs/
+Problem: Maximum Product Subarray - Link: https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/
+Problem:  - Link: https://bit.ly/3PrlQsU
+Problem:  - Link: https://youtu.be/hnswaLJvr6g
+Problem:  - Link: https://leetcode.com/problems/maximum-product-subarray/
+Step: Step 3.3: Hard
+Problem: Binary Search to find X in sorted array - Link: https://takeuforward.org/data-structure/binary-search-explained/
+Problem:  - Link: https://bit.ly/3QtKBpO
+Problem:  - Link: https://leetcode.com/problems/binary-search/
+Problem:  - Link: https://bit.ly/3Cf398N
+Problem:  - Link: https://bit.ly/3CgDDjE
+Problem:  - Link: https://bit.ly/3pFDbUN
+Problem:  - Link: https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.
+Problem: Find the first or last occurrence of a given number in a sorted array - Link: https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/
+Problem:  - Link: https://bit.ly/3QuCFEP
+Problem:  - Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+Problem: Count occurrences of a number in a sorted array with duplicates - Link: https://takeuforward.org/data-structure/count-occurrences-in-sorted-array/
+Problem:  - Link: https://bit.ly/3SVcOqW
+Problem: Find peak element - Link: https://takeuforward.org/data-structure/peak-element-in-array/
+Problem:  - Link: https://bit.ly/3Apsuf3
+Problem:  - Link: https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.
+Problem: Search in Rotated Sorted Array I - Link: https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3QH471y
+Problem:  - Link: https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64
+Problem:  - Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3Rm85Nb
+Problem:  - Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+Problem: Find minimum in Rotated Sorted Array - Link: https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3Az1OJ3
+Problem:  - Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3dEvWJD
+Problem:  - Link: https://bit.ly/3AllLTj
+Problem:  - Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
+Step: Step 4: Binary Search [1D, 2D Arrays, Search Space]
+Problem: Binary Search to find X in sorted array - Link: https://takeuforward.org/data-structure/binary-search-explained/
+Problem:  - Link: https://bit.ly/3QtKBpO
+Problem:  - Link: https://leetcode.com/problems/binary-search/
+Problem:  - Link: https://bit.ly/3Cf398N
+Problem:  - Link: https://bit.ly/3CgDDjE
+Problem:  - Link: https://bit.ly/3pFDbUN
+Problem:  - Link: https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.
+Problem: Find the first or last occurrence of a given number in a sorted array - Link: https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/
+Problem:  - Link: https://bit.ly/3QuCFEP
+Problem:  - Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+Problem: Count occurrences of a number in a sorted array with duplicates - Link: https://takeuforward.org/data-structure/count-occurrences-in-sorted-array/
+Problem:  - Link: https://bit.ly/3SVcOqW
+Problem: Find peak element - Link: https://takeuforward.org/data-structure/peak-element-in-array/
+Problem:  - Link: https://bit.ly/3Apsuf3
+Problem:  - Link: https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.
+Problem: Search in Rotated Sorted Array I - Link: https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3QH471y
+Problem:  - Link: https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64
+Problem:  - Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3Rm85Nb
+Problem:  - Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+Problem: Find minimum in Rotated Sorted Array - Link: https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3Az1OJ3
+Problem:  - Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Problem:  - Link: https://bit.ly/3dEvWJD
+Problem:  - Link: https://bit.ly/3AllLTj
+Problem:  - Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
+Step: Step 4.1: Learning BS on 1D Arrays
+Problem:  - Link: https://bit.ly/3QNDw2W
+Problem:  - Link: https://bit.ly/3dAwi3Z
+Problem:  - Link: https://youtu.be/ZYpYur0znng
+Problem:  - Link: https://leetcode.com/problems/search-a-2d-matrix/
+Problem:  - Link: https://bit.ly/3A3mBmf
+Problem:  - Link: https://leetcode.com/problems/find-a-peak-element-ii/
+Problem:  - Link: https://bit.ly/3PvwuPk
+Problem:  - Link: https://www.youtube.com/watch?v=63fPPOdIr2c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62
+Step: Step 4.2: Applying BS on 2D Arrays
+Problem:  - Link: https://bit.ly/3JXtGcE
+Problem:  - Link: https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62
+Problem: Find the Nth root of a number using binary search - Link: https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/
+Problem:  - Link: https://bit.ly/3zWNyrL
+Problem:  - Link: https://bit.ly/3LSY491
+Problem:  - Link: https://leetcode.com/problems/koko-eating-bananas/
+Problem:  - Link: https://bit.ly/3CJ9Ezm
+Problem:  - Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+Problem:  - Link: https://bit.ly/3SJogFR
+Problem:  - Link: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+Problem:  - Link: https://bit.ly/3PBInmS
+Problem:  - Link: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+Problem:  - Link: https://bit.ly/3K1HwL4
+Problem:  - Link: https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65
+Problem:  - Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
+Problem: Aggressive Cows - Link: https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/
+Problem:  - Link: https://bit.ly/3rBuE5Z
+Problem:  - Link: https://www.youtube.com/watch?v=wSOfYesTBRk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=70
+Problem:  - Link: https://bit.ly/3QMrMxP
+Problem:  - Link: https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69
+Problem:  - Link: https://bit.ly/3Qx0RGs
+Problem:  - Link: https://leetcode.com/problems/split-array-largest-sum/
+Problem:  - Link: https://bit.ly/3bUFY9l
+Problem:  - Link: https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.
+Problem:  - Link: https://bit.ly/3s40ybG
+Problem:  - Link: https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+Problem: Median of 2 sorted arrays - Link: https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/
+Problem:  - Link: https://bit.ly/3QPi7Xp
+Problem:  - Link: https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65
+Problem:  - Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
+Problem: Kth element of 2 sorted arrays - Link: https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/
+Problem:  - Link: https://bit.ly/3Amcomr
+Problem:  - Link: https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66
+Step: Step 4.3: Find Answers by BS in Search Space
+Problem:  - Link: https://bit.ly/3rzwRix
+Problem:  - Link: https://leetcode.com/problems/remove-outermost-parentheses/
+Problem: Reverse words in a given string / Palindrome Check - Link: https://takeuforward.org/data-structure/reverse-words-in-a-string/
+Problem:  - Link: https://bit.ly/3SXyWB4
+Problem:  - Link: https://leetcode.com/problems/reverse-words-in-a-string/
+Problem:  - Link: https://bit.ly/3UII5yp
+Problem:  - Link: https://leetcode.com/problems/largest-odd-number-in-string/
+Problem:  - Link: https://bit.ly/3QKCyVu
+Problem:  - Link: https://leetcode.com/problems/longest-common-prefix/
+Problem:  - Link: https://bit.ly/3QwynwI
+Problem:  - Link: https://leetcode.com/problems/isomorphic-strings/
+Problem:  - Link: https://bit.ly/3K0HHq5
+Problem:  - Link: https://leetcode.com/problems/rotate-string/
+Problem: Check if two strings are anagram of each other - Link: https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/
+Problem:  - Link: https://bit.ly/3SkMyoX
+Problem:  - Link: https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&text=Constraints%3A,.length%20%3C%3D%205%20*%2010
+Step: Step 5: Strings [Basic and Medium]
+Problem:  - Link: https://bit.ly/3rzwRix
+Problem:  - Link: https://leetcode.com/problems/remove-outermost-parentheses/
+Problem: Reverse words in a given string / Palindrome Check - Link: https://takeuforward.org/data-structure/reverse-words-in-a-string/
+Problem:  - Link: https://bit.ly/3SXyWB4
+Problem:  - Link: https://leetcode.com/problems/reverse-words-in-a-string/
+Problem:  - Link: https://bit.ly/3UII5yp
+Problem:  - Link: https://leetcode.com/problems/largest-odd-number-in-string/
+Problem:  - Link: https://bit.ly/3QKCyVu
+Problem:  - Link: https://leetcode.com/problems/longest-common-prefix/
+Problem:  - Link: https://bit.ly/3QwynwI
+Problem:  - Link: https://leetcode.com/problems/isomorphic-strings/
+Problem:  - Link: https://bit.ly/3K0HHq5
+Problem:  - Link: https://leetcode.com/problems/rotate-string/
+Problem: Check if two strings are anagram of each other - Link: https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/
+Problem:  - Link: https://bit.ly/3SkMyoX
+Problem:  - Link: https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&text=Constraints%3A,.length%20%3C%3D%205%20*%2010
+Step: Step 5.1: Basic and Easy String Problems
+Problem:  - Link: https://bit.ly/3dEQp1d
+Problem:  - Link: https://leetcode.com/problems/sort-characters-by-frequency/
+Problem:  - Link: https://bit.ly/3xYlR1F
+Problem:  - Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+Problem:  - Link: https://bit.ly/3AqBlNv
+Problem:  - Link: https://leetcode.com/problems/roman-to-integer/
+Problem:  - Link: https://bit.ly/3QUHBmf
+Problem:  - Link: https://leetcode.com/problems/string-to-integer-atoi/
+Problem:  - Link: https://bit.ly/3CfQfYi
+Problem:  - Link: https://bit.ly/3CeQ27D
+Problem:  - Link: https://leetcode.com/problems/longest-palindromic-substring/
+Problem:  - Link: https://bit.ly/3LRh089
+Problem:  - Link: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+Problem:  - Link: https://bit.ly/3Ul0iSq
+Problem:  - Link: https://leetcode.com/problems/reverse-words-in-a-string/
+Step: Step 5.2: Medium String Problems
+Problem:  - Link: https://bit.ly/3URZnst
+Problem: Inserting a node in LinkedList - Link: https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
+Problem:  - Link: https://bit.ly/3w9pEIt
+Problem: Deleting a node in LinkedList - Link: https://takeuforward.org/data-structure/delete-last-node-of-linked-list/
+Problem:  - Link: https://bit.ly/3Apg5aX
+Problem:  - Link: https://leetcode.com/problems/delete-node-in-a-linked-list/
+Problem:  - Link: https://bit.ly/3Po7tpf
+Problem:  - Link: https://bit.ly/3Epriup
+Step: Step 6: Learn LinkedList [Single/Double LL, Medium, Hard]
+Problem:  - Link: https://bit.ly/3URZnst
+Problem: Inserting a node in LinkedList - Link: https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
+Problem:  - Link: https://bit.ly/3w9pEIt
+Problem: Deleting a node in LinkedList - Link: https://takeuforward.org/data-structure/delete-last-node-of-linked-list/
+Problem:  - Link: https://bit.ly/3Apg5aX
+Problem:  - Link: https://leetcode.com/problems/delete-node-in-a-linked-list/
+Problem:  - Link: https://bit.ly/3Po7tpf
+Problem:  - Link: https://bit.ly/3Epriup
+Step: Step 6.1: Learn 1D LinkedList
+Problem:  - Link: https://bit.ly/3V9wY1v
+Problem: Insert a node in DLL - Link: https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/
+Problem:  - Link: https://bit.ly/3QD4hHs
+Problem: Delete a node in DLL - Link: https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/
+Problem:  - Link: https://bit.ly/3QlEoMx
+Problem: Reverse a DLL - Link: https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/
+Problem:  - Link: https://bit.ly/3w6hUaa
+Step: Step 6.2: Learn Doubly LinkedList
+Problem: Middle of a LinkedList [TortoiseHare Method] - Link: https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/
+Problem:  - Link: https://bit.ly/3dAjkn1
+Problem:  - Link: https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28
+Problem:  - Link: https://leetcode.com/problems/middle-of-the-linked-list/
+Problem: Reverse a LinkedList [Iterative] - Link: https://takeuforward.org/data-structure/reverse-a-linked-list/
+Problem:  - Link: https://bit.ly/3zY03mT
+Problem:  - Link: https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27
+Problem:  - Link: https://leetcode.com/problems/reverse-linked-list/
+Problem: Reverse a LL [Recursive] - Link: https://takeuforward.org/data-structure/reverse-a-linked-list/
+Problem:  - Link: https://bit.ly/3zY03mT
+Problem:  - Link: https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27
+Problem:  - Link: https://leetcode.com/problems/reverse-linked-list/
+Problem: Detect a loop in LL - Link: https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/
+Problem:  - Link: https://bit.ly/3QN8PLn
+Problem:  - Link: https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34
+Problem:  - Link: https://leetcode.com/problems/linked-list-cycle/
+Problem: Find the starting point in LL - Link: https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/
+Problem:  - Link: https://bit.ly/3zuBr66
+Problem:  - Link: https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37
+Problem:  - Link: https://leetcode.com/problems/linked-list-cycle-ii/
+Problem:  - Link: https://bit.ly/3dyXL6m
+Problem: Check if LL is palindrome or not - Link: https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/
+Problem:  - Link: https://bit.ly/3JVrnXJ
+Problem:  - Link: https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36
+Problem:  - Link: https://leetcode.com/problems/palindrome-linked-list/
+Problem:  - Link: https://bit.ly/3A3aeqe
+Problem:  - Link: https://leetcode.com/problems/odd-even-linked-list/
+Problem: Remove Nth node from the back of the LL - Link: https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/
+Problem:  - Link: https://bit.ly/3pobNKM
+Problem:  - Link: https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30
+Problem:  - Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Problem:  - Link: https://bit.ly/3QzoU7W
+Problem:  - Link: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20.
+Problem:  - Link: https://bit.ly/3dDuLdO
+Problem:  - Link: https://leetcode.com/problems/sort-list/
+Problem:  - Link: https://bit.ly/3Ceotvr
+Problem: Find the intersection point of Y LL - Link: https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/
+Problem:  - Link: https://bit.ly/3pl5R4W
+Problem:  - Link: https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33
+Problem:  - Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
+Problem:  - Link: https://bit.ly/3piCTD3
+Problem: Add 2 numbers in LL - Link: https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/
+Problem:  - Link: https://bit.ly/3JZlGb7
+Problem:  - Link: https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32
+Problem:  - Link: https://leetcode.com/problems/add-two-numbers/
+Step: Step 6.3: Medium Problems of LL
+Problem:  - Link: https://bit.ly/3zuBr66
+Problem:  - Link: https://bit.ly/3zWPiBj
+Problem:  - Link: https://bit.ly/3FtJUtZ
+Step: Step 6.4: Medium Problems of DLL
+Problem: Reverse LL in group of given size K - Link: https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/
+Problem:  - Link: https://bit.ly/3zWPiBj
+Problem:  - Link: https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34
+Problem:  - Link: https://leetcode.com/problems/reverse-nodes-in-k-group/
+Problem: Rotate a LL - Link: https://takeuforward.org/data-structure/rotate-a-linked-list/
+Problem:  - Link: https://bit.ly/3JXvemY
+Problem:  - Link: https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39
+Problem:  - Link: https://leetcode.com/problems/rotate-list/description/
+Problem: Flattening of LL - Link: https://takeuforward.org/data-structure/flattening-a-linked-list/
+Problem:  - Link: https://bit.ly/3w9TKf8
+Problem:  - Link: https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38
+Problem: Clone a Linked List with random and next pointer - Link: https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/
+Problem:  - Link: https://bit.ly/3PpM6np
+Problem:  - Link: https://www.youtube.com/watch?v=VNf6VynfpdM
+Problem:  - Link: https://leetcode.com/problems/copy-list-with-random-pointer/
+Step: Step 6.5: Hard Problems of LL
+Problem:  - Link: https://bit.ly/3K4ySLV
+Problem:  - Link: https://leetcode.com/problems/string-to-integer-atoi/
+Problem: Pow(x, n) - Link: https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/
+Problem:  - Link: https://bit.ly/3QLc6uD
+Problem:  - Link: https://youtu.be/l0YC3876qxg
+Problem:  - Link: https://leetcode.com/problems/powx-n/
+Problem:  - Link: https://bit.ly/3w6SucH
+Problem:  - Link: https://leetcode.com/problems/count-good-numbers/
+Problem:  - Link: https://bit.ly/3Pu0YBn
+Problem:  - Link: https://bit.ly/3podAiY
+Step: Step 7: Recursion [PatternWise]
+Problem:  - Link: https://bit.ly/3K4ySLV
+Problem:  - Link: https://leetcode.com/problems/string-to-integer-atoi/
+Problem: Pow(x, n) - Link: https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/
+Problem:  - Link: https://bit.ly/3QLc6uD
+Problem:  - Link: https://youtu.be/l0YC3876qxg
+Problem:  - Link: https://leetcode.com/problems/powx-n/
+Problem:  - Link: https://bit.ly/3w6SucH
+Problem:  - Link: https://leetcode.com/problems/count-good-numbers/
+Problem:  - Link: https://bit.ly/3Pu0YBn
+Problem:  - Link: https://bit.ly/3podAiY
+Step: Step 7.1: Get a Strong Hold
+Problem:  - Link: https://bit.ly/3sI8I9W
+Problem:  - Link: https://bit.ly/3K5keUw
+Problem:  - Link: https://leetcode.com/problems/generate-parentheses/
+Problem: Print all subsequences/Power Set - Link: https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/
+Problem:  - Link: https://bit.ly/3STXz1t
+Problem:  - Link: https://youtu.be/b7AYbpM5YrE
+Problem:  - Link: https://leetcode.com/problems/subsets/
+Problem:  - Link: https://bit.ly/3US225G
+Problem:  - Link: https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7
+Problem:  - Link: https://bit.ly/3SVf1me
+Problem:  - Link: https://bit.ly/3SVf1me
+Problem: Combination Sum - Link: https://takeuforward.org/data-structure/combination-sum-1/
+Problem:  - Link: https://bit.ly/3C9bJ91
+Problem:  - Link: https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49
+Problem:  - Link: https://leetcode.com/problems/combination-sum/
+Problem: Combination Sum-II - Link: https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/
+Problem:  - Link: https://bit.ly/3VgczZ2
+Problem:  - Link: https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50
+Problem:  - Link: https://leetcode.com/problems/combination-sum-ii/
+Problem: Subset Sum-I - Link: https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/
+Problem:  - Link: https://bit.ly/3C9GQRS
+Problem:  - Link: https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52
+Problem: Subset Sum-II - Link: https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/
+Problem:  - Link: https://bit.ly/3MlAvWF
+Problem:  - Link: https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53
+Problem:  - Link: https://leetcode.com/problems/subsets-ii/
+Problem:  - Link: https://bit.ly/3CMZFul
+Problem:  - Link: https://leetcode.com/problems/combination-sum-iii/
+Problem:  - Link: https://bit.ly/3K1INBO
+Problem:  - Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Step: Step 7.2: Subsequences Pattern
+Problem: Palindrome Partitioning - Link: https://takeuforward.org/data-structure/palindrome-partitioning/
+Problem:  - Link: https://bit.ly/3T63roP
+Problem:  - Link: https://www.youtube.com/watch?v=WBgsABoClE0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=51
+Problem:  - Link: https://leetcode.com/problems/palindrome-partitioning/
+Problem: Word Search - Link: https://takeuforward.org/data-structure/word-search-leetcode/
+Problem:  - Link: https://bit.ly/3Ca9xOL
+Problem:  - Link: https://leetcode.com/problems/word-search/
+Problem: N Queen - Link: https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/
+Problem:  - Link: https://bit.ly/3QurLP8
+Problem:  - Link: https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57
+Problem:  - Link: https://leetcode.com/problems/n-queens/
+Problem: Rat in a Maze - Link: https://takeuforward.org/data-structure/rat-in-a-maze/
+Problem:  - Link: https://bit.ly/3pkqK0g
+Problem:  - Link: https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60
+Problem:  - Link: https://bit.ly/3Bqk0Ug
+Problem:  - Link: https://leetcode.com/problems/word-break/
+Problem: M Coloring Problem - Link: https://takeuforward.org/data-structure/m-coloring-problem/
+Problem:  - Link: https://bit.ly/3Cepqnv
+Problem:  - Link: https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59
+Problem: Sudoko Solver - Link: https://takeuforward.org/data-structure/sudoku-solver/
+Problem:  - Link: https://bit.ly/3PrA5hs
+Problem:  - Link: https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58
+Problem:  - Link: https://leetcode.com/problems/sudoku-solver/
+Problem:  - Link: https://bit.ly/3yPPZN3
+Problem:  - Link: https://leetcode.com/problems/expression-add-operators/
+Step: Step 7.3: Trying out all Combos / Hard
+Problem:  - Link: https://bit.ly/3Eo8JVW
+Problem:  - Link: https://bit.ly/3C0kAJR
+Problem:  - Link: https://bit.ly/3xDMLvF
+Problem:  - Link: https://bit.ly/3R1ZPlq
+Problem:  - Link: https://leetcode.com/problems/power-of-two/
+Problem:  - Link: https://bit.ly/3SbiBZ2
+Problem:  - Link: https://bit.ly/3Sq66IM
+Problem:  - Link: https://bit.ly/3qVixAz
+Problem:  - Link: https://bit.ly/3LyUL6Q
+Problem:  - Link: https://leetcode.com/problems/divide-two-integers/
+Step: Step 8: Bit Manipulation [Concepts & Problems] & Advanced Maths
+Problem:  - Link: https://bit.ly/3Eo8JVW
+Problem:  - Link: https://bit.ly/3C0kAJR
+Problem:  - Link: https://bit.ly/3xDMLvF
+Problem:  - Link: https://bit.ly/3R1ZPlq
+Problem:  - Link: https://leetcode.com/problems/power-of-two/
+Problem:  - Link: https://bit.ly/3SbiBZ2
+Problem:  - Link: https://bit.ly/3Sq66IM
+Problem:  - Link: https://bit.ly/3qVixAz
+Problem:  - Link: https://bit.ly/3LyUL6Q
+Problem:  - Link: https://leetcode.com/problems/divide-two-integers/
+Step: Step 8.1: Learn Bit Manipulation
+Problem:  - Link: https://bit.ly/3Skharj
+Problem:  - Link: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+Problem:  - Link: https://bit.ly/3BEb9ya
+Problem:  - Link: https://leetcode.com/problems/single-number/
+Problem:  - Link: https://bit.ly/3fdHg04
+Problem:  - Link: https://www.youtube.com/watch?v=b7AYbpM5YrE&t=232s
+Problem:  - Link: https://leetcode.com/problems/subsets/
+Problem:  - Link: https://bit.ly/3T8xUCf
+Problem:  - Link: https://bit.ly/3DK7O3i
+Step: Step 8.2: Interview Problems
+Problem:  - Link: https://bit.ly/3C165p8
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=all-divisors-of-a-number
+Problem:  - Link: https://bit.ly/3fduYVT
+Problem:  - Link: https://leetcode.com/problems/count-primes/
+Problem:  - Link: https://bit.ly/3SPGzbK
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=power-of-numbers
+Problem:  - Link: https://leetcode.com/problems/powx-n/
+Step: Step 8.3: Advanced Maths
+Problem: Implement Stack using Arrays - Link: https://takeuforward.org/data-structure/implement-stack-using-array/
+Problem:  - Link: https://bit.ly/3QPJ39w
+Problem:  - Link: https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=68
+Problem: Implement Queue using Arrays - Link: https://takeuforward.org/data-structure/implement-queue-using-array/
+Problem:  - Link: https://bit.ly/3C9HLli
+Problem:  - Link: https://www.youtube.com/watch?v=M6GnoUDpqEE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=72
+Problem: Implement Stack using Queue - Link: https://takeuforward.org/data-structure/implement-stack-using-single-queue/
+Problem:  - Link: https://bit.ly/3PrRI0F
+Problem:  - Link: https://www.youtube.com/watch?v=jDZQKzEtbYQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74
+Problem:  - Link: https://leetcode.com/problems/implement-stack-using-queues/
+Problem: Implement Queue using Stack - Link: https://takeuforward.org/data-structure/implement-queue-using-stack/
+Problem:  - Link: https://bit.ly/3Quthki
+Problem:  - Link: https://www.youtube.com/watch?v=3Et9MrMc02A&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75
+Problem:  - Link: https://leetcode.com/problems/implement-queue-using-stacks/
+Problem: Implement stack using Linkedlist - Link: https://takeuforward.org/data-structure/implement-stack-using-linked-list/
+Problem:  - Link: https://bit.ly/3w6PwVv
+Problem: Implement queue using Linkedlist - Link: https://takeuforward.org/data-structure/implement-queue-using-linked-list/
+Problem:  - Link: https://bit.ly/3PA7mY0
+Problem: Check for balanced paranthesis - Link: https://takeuforward.org/data-structure/check-for-balanced-parentheses/
+Problem:  - Link: https://bit.ly/3An2IIo
+Problem:  - Link: https://www.youtube.com/watch?v=wkDfsKijrZ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74
+Problem:  - Link: https://leetcode.com/problems/valid-parentheses/
+Problem: Implement Min Stack - Link: https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/
+Problem:  - Link: https://bit.ly/3JVhFoe
+Problem:  - Link: https://youtu.be/V09NfaGf2ao
+Problem:  - Link: https://leetcode.com/problems/min-stack/
+Step: Step 9: Stack and Queues [Pre-In-Post-fix, Monotonic Stack]
+Problem: Implement Stack using Arrays - Link: https://takeuforward.org/data-structure/implement-stack-using-array/
+Problem:  - Link: https://bit.ly/3QPJ39w
+Problem:  - Link: https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=68
+Problem: Implement Queue using Arrays - Link: https://takeuforward.org/data-structure/implement-queue-using-array/
+Problem:  - Link: https://bit.ly/3C9HLli
+Problem:  - Link: https://www.youtube.com/watch?v=M6GnoUDpqEE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=72
+Problem: Implement Stack using Queue - Link: https://takeuforward.org/data-structure/implement-stack-using-single-queue/
+Problem:  - Link: https://bit.ly/3PrRI0F
+Problem:  - Link: https://www.youtube.com/watch?v=jDZQKzEtbYQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74
+Problem:  - Link: https://leetcode.com/problems/implement-stack-using-queues/
+Problem: Implement Queue using Stack - Link: https://takeuforward.org/data-structure/implement-queue-using-stack/
+Problem:  - Link: https://bit.ly/3Quthki
+Problem:  - Link: https://www.youtube.com/watch?v=3Et9MrMc02A&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75
+Problem:  - Link: https://leetcode.com/problems/implement-queue-using-stacks/
+Problem: Implement stack using Linkedlist - Link: https://takeuforward.org/data-structure/implement-stack-using-linked-list/
+Problem:  - Link: https://bit.ly/3w6PwVv
+Problem: Implement queue using Linkedlist - Link: https://takeuforward.org/data-structure/implement-queue-using-linked-list/
+Problem:  - Link: https://bit.ly/3PA7mY0
+Problem: Check for balanced paranthesis - Link: https://takeuforward.org/data-structure/check-for-balanced-parentheses/
+Problem:  - Link: https://bit.ly/3An2IIo
+Problem:  - Link: https://www.youtube.com/watch?v=wkDfsKijrZ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74
+Problem:  - Link: https://leetcode.com/problems/valid-parentheses/
+Problem: Implement Min Stack - Link: https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/
+Problem:  - Link: https://bit.ly/3JVhFoe
+Problem:  - Link: https://youtu.be/V09NfaGf2ao
+Problem:  - Link: https://leetcode.com/problems/min-stack/
+Step: Step 9.1: Learning
+Problem: Infix to Postfix Conversion using Stack - Link: https://takeuforward.org/data-structure/infix-to-postfix/
+Problem:  - Link: https://bit.ly/3JWYj1P
+Problem:  - Link: https://bit.ly/3FwxK3j
+Problem:  - Link: https://bit.ly/3DrwCLI
+Problem:  - Link: https://bit.ly/3UaWJxk
+Problem:  - Link: https://bit.ly/3sNZ1a2
+Problem: Convert Infix To Prefix Notation - Link: https://takeuforward.org/data-structure/infix-to-prefix/
+Problem:  - Link: https://bit.ly/3T0gZ4P
+Step: Step 9.2: Prefix, Infix, PostFix Conversion Problems
+Problem: Next Greater Element - Link: https://takeuforward.org/data-structure/next-greater-element-using-stack/
+Problem:  - Link: https://bit.ly/3QNPQAs
+Problem:  - Link: https://www.youtube.com/watch?v=Du881K7Jtk8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75
+Problem:  - Link: https://leetcode.com/problems/next-greater-element-i/
+Problem:  - Link: https://bit.ly/3DLe7TX
+Problem:  - Link: https://leetcode.com/problems/next-greater-element-ii/
+Problem:  - Link: https://bit.ly/3wbhcIL
+Problem:  - Link: https://bit.ly/3Np2R2H
+Problem: Trapping Rainwater - Link: https://takeuforward.org/data-structure/trapping-rainwater/
+Problem:  - Link: https://bit.ly/3AqMa1W
+Problem:  - Link: https://www.youtube.com/watch?v=m18Hntz4go8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=42
+Problem:  - Link: https://leetcode.com/problems/trapping-rain-water/
+Problem:  - Link: https://bit.ly/3yS5XpZ
+Problem:  - Link: https://leetcode.com/problems/sum-of-subarray-minimums/
+Problem:  - Link: https://bit.ly/3dzHopW
+Problem:  - Link: https://leetcode.com/problems/online-stock-span/
+Problem:  - Link: https://bit.ly/3Tpi0Tw
+Problem:  - Link: https://leetcode.com/problems/asteroid-collision/
+Problem:  - Link: https://bit.ly/3SdfheS
+Problem:  - Link: https://leetcode.com/problems/sum-of-subarray-ranges/
+Problem:  - Link: https://bit.ly/3pl6taP
+Problem:  - Link: https://leetcode.com/problems/remove-k-digits/
+Problem: Largest rectangle in a histogram - Link: https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/
+Problem:  - Link: https://bit.ly/3AnVYd5
+Problem:  - Link: https://www.youtube.com/watch?v=X0X6G-eWgQ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=81
+Problem:  - Link: https://leetcode.com/problems/largest-rectangle-in-histogram/
+Problem:  - Link: https://bit.ly/3C6BF5p
+Problem:  - Link: https://leetcode.com/problems/maximal-rectangle/
+Step: Step 9.3: Monotonic Stack/Queue Problems [VVV. Imp]
+Problem: Sliding Window maximum - Link: https://takeuforward.org/data-structure/sliding-window-maximum/
+Problem:  - Link: https://bit.ly/3w7SSri
+Problem:  - Link: https://www.youtube.com/watch?v=CZQGRp93K4k&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=83
+Problem:  - Link: https://leetcode.com/problems/sliding-window-maximum/
+Problem:  - Link: https://bit.ly/3SSxcZZ
+Problem:  - Link: https://leetcode.com/problems/online-stock-span/
+Problem:  - Link: https://bit.ly/3dC9IIB
+Problem:  - Link: https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/
+Problem: Rotten Oranges - Link: https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/
+Problem:  - Link: https://bit.ly/3R4htWb
+Problem:  - Link: https://www.youtube.com/watch?v=yf3oUhkvqA0
+Problem:  - Link: https://leetcode.com/problems/rotting-oranges/
+Problem: LRU cache (IMPORTANT) - Link: https://takeuforward.org/data-structure/implement-lru-cache/
+Problem:  - Link: https://bit.ly/3zZneNN
+Problem:  - Link: https://www.youtube.com/watch?v=xDEuM5qa0zg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=77
+Problem:  - Link: https://leetcode.com/problems/lru-cache/
+Problem:  - Link: https://bit.ly/3fpYDLQ
+Problem:  - Link: https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79
+Problem:  - Link: https://leetcode.com/problems/lfu-cache/
+Step: Step 9.4: Implementation Problems
+Problem: Longest Substring Without Repeating Characters - Link: https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/
+Problem:  - Link: https://bit.ly/3wegomm
+Problem:  - Link: https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26
+Problem:  - Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Problem:  - Link: https://bit.ly/3RjRcCO
+Problem:  - Link: https://leetcode.com/problems/max-consecutive-ones-iii/
+Problem:  - Link: https://bit.ly/3D6d94w
+Problem:  - Link: https://bit.ly/3WhN89U
+Problem:  - Link: https://leetcode.com/problems/longest-repeating-character-replacement/
+Problem:  - Link: https://bit.ly/3S8xsCG
+Problem:  - Link: https://leetcode.com/problems/binary-subarrays-with-sum/
+Problem:  - Link: https://bit.ly/3xZvUUc
+Problem:  - Link: https://leetcode.com/problems/count-number-of-nice-subarrays/
+Problem:  - Link: https://bit.ly/3xVYTZa
+Problem:  - Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+Problem:  - Link: https://bit.ly/3DxaMXw
+Problem:  - Link: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+Step: Step 10: Sliding Window & Two Pointer Combined Problems
+Problem: Longest Substring Without Repeating Characters - Link: https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/
+Problem:  - Link: https://bit.ly/3wegomm
+Problem:  - Link: https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26
+Problem:  - Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Problem:  - Link: https://bit.ly/3RjRcCO
+Problem:  - Link: https://leetcode.com/problems/max-consecutive-ones-iii/
+Problem:  - Link: https://bit.ly/3D6d94w
+Problem:  - Link: https://bit.ly/3WhN89U
+Problem:  - Link: https://leetcode.com/problems/longest-repeating-character-replacement/
+Problem:  - Link: https://bit.ly/3S8xsCG
+Problem:  - Link: https://leetcode.com/problems/binary-subarrays-with-sum/
+Problem:  - Link: https://bit.ly/3xZvUUc
+Problem:  - Link: https://leetcode.com/problems/count-number-of-nice-subarrays/
+Problem:  - Link: https://bit.ly/3xVYTZa
+Problem:  - Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+Problem:  - Link: https://bit.ly/3DxaMXw
+Problem:  - Link: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+Step: Step 10.1: Medium Problems
+Problem:  - Link: https://bit.ly/3T12HRu
+Problem:  - Link: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+Problem:  - Link: https://bit.ly/3DLRtee
+Problem:  - Link: https://leetcode.com/problems/subarrays-with-k-different-integers/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
+Problem:  - Link: https://leetcode.com/problems/minimum-window-substring/
+Problem:  - Link: https://bit.ly/3DnB4uZ
+Problem: Problem 2 - Link: https://leetcode.com/problems/minimum-window-subsequence/
+Step: Step 10.2: Hard Problems
+Problem:  - Link: https://bit.ly/3TSxAHd
+Problem:  - Link: https://bit.ly/3weGgP3
+Problem:  - Link: https://bit.ly/3AbFrrI
+Problem:  - Link: https://bit.ly/3flmw7c
+Step: Step 11: Heaps [Learning, Medium, Hard Problems]
+Problem:  - Link: https://bit.ly/3TSxAHd
+Problem:  - Link: https://bit.ly/3weGgP3
+Problem:  - Link: https://bit.ly/3AbFrrI
+Problem:  - Link: https://bit.ly/3flmw7c
+Step: Step 11.1: Learning
+Problem: Kth largest element in an array [use priority queue] - Link: https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3Avss5k
+Problem:  - Link: https://leetcode.com/problems/kth-largest-element-in-an-array/
+Problem: Kth smallest element in an array [use priority queue] - Link: https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/
+Problem:  - Link: https://bit.ly/3PvAOhK
+Problem:  - Link: https://bit.ly/3QLpaAs
+Problem:  - Link: https://bit.ly/3QObTXC
+Problem:  - Link: https://leetcode.com/problems/merge-k-sorted-lists/
+Problem: Replace each array element by its corresponding rank - Link: https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/
+Problem:  - Link: https://bit.ly/3TS3jcg
+Problem:  - Link: https://bit.ly/3h2Z92Z
+Problem:  - Link: https://leetcode.com/problems/task-scheduler/
+Problem:  - Link: https://bit.ly/3SUfwM8
+Problem:  - Link: https://leetcode.com/problems/hand-of-straights/
+Step: Step 11.2: Medium Problems
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/design-twitter/1
+Problem:  - Link: https://leetcode.com/problems/design-twitter/
+Problem:  - Link: https://bit.ly/3t5CS7r
+Problem:  - Link: https://bit.ly/3JZPqEV
+Problem:  - Link: https://leetcode.com/problems/kth-largest-element-in-a-stream/#:~:text=Implement%20KthLargest%20class%3A,largest%20element%20in%20the%20stream.
+Problem:  - Link: https://bit.ly/3sSXvTT
+Problem:  - Link: https://bit.ly/3QIknj4
+Problem:  - Link: https://leetcode.com/problems/find-median-from-data-stream/
+Problem:  - Link: https://bit.ly/3wcIHla
+Problem:  - Link: https://leetcode.com/problems/top-k-frequent-elements/
+Step: Step 11.3: Hard Problems
+Problem:  - Link: https://bit.ly/3Wl3PBd
+Problem:  - Link: https://leetcode.com/problems/assign-cookies/
+Problem: Fractional Knapsack Problem - Link: https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/
+Problem:  - Link: https://bit.ly/3PsqOFL
+Problem:  - Link: https://www.youtube.com/watch?v=F_DDzYnxO14&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49
+Problem: Greedy algorithm to find minimum number of coins - Link: https://takeuforward.org/data-structure/find-minimum-number-of-coins/
+Problem:  - Link: https://bit.ly/3Ka7xYU
+Problem:  - Link: https://www.youtube.com/watch?v=mVg9CfJvayM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=48
+Problem:  - Link: https://bit.ly/3DoFGRx
+Problem:  - Link: https://leetcode.com/problems/lemonade-change/
+Problem:  - Link: https://bit.ly/3K6ulZA
+Problem:  - Link: https://leetcode.com/problems/valid-parenthesis-string/
+Step: Step 12: Greedy Algorithms [Easy, Medium/Hard]
+Problem:  - Link: https://bit.ly/3Wl3PBd
+Problem:  - Link: https://leetcode.com/problems/assign-cookies/
+Problem: Fractional Knapsack Problem - Link: https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/
+Problem:  - Link: https://bit.ly/3PsqOFL
+Problem:  - Link: https://www.youtube.com/watch?v=F_DDzYnxO14&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49
+Problem: Greedy algorithm to find minimum number of coins - Link: https://takeuforward.org/data-structure/find-minimum-number-of-coins/
+Problem:  - Link: https://bit.ly/3Ka7xYU
+Problem:  - Link: https://www.youtube.com/watch?v=mVg9CfJvayM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=48
+Problem:  - Link: https://bit.ly/3DoFGRx
+Problem:  - Link: https://leetcode.com/problems/lemonade-change/
+Problem:  - Link: https://bit.ly/3K6ulZA
+Problem:  - Link: https://leetcode.com/problems/valid-parenthesis-string/
+Step: Step 12.1: Easy Problems
+Problem: N meetings in one room - Link: https://takeuforward.org/data-structure/n-meetings-in-one-room/
+Problem:  - Link: https://bit.ly/3A6Ob1Y
+Problem:  - Link: https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=45
+Problem:  - Link: https://bit.ly/3AbFYKe
+Problem:  - Link: https://leetcode.com/problems/jump-game/
+Problem:  - Link: https://bit.ly/3Av2ezM
+Problem:  - Link: https://leetcode.com/problems/jump-game-ii/
+Problem: Minimum number of platforms required for a railway - Link: https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/
+Problem:  - Link: https://bit.ly/3bXX5Hm
+Problem:  - Link: https://www.youtube.com/watch?v=dxVcMDI7vyI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=46
+Problem: Job sequencing Problem - Link: https://takeuforward.org/data-structure/job-sequencing-problem/
+Problem:  - Link: https://bit.ly/3Pttpzj
+Problem:  - Link: https://www.youtube.com/watch?v=LjPx4wQaRIs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=47
+Problem:  - Link: https://bit.ly/3h14wzm
+Problem:  - Link: https://leetcode.com/problems/candy/
+Problem:  - Link: https://bit.ly/3DYCIFb
+Problem:  - Link: https://bit.ly/3dtFqHG
+Problem: Insert Interval - Link: https://takeuforward.org/?s=Insert+Interval
+Problem:  - Link: https://bit.ly/3VeNtc1
+Problem:  - Link: https://leetcode.com/problems/insert-interval/
+Problem: Merge Intervals - Link: https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/
+Problem:  - Link: https://bit.ly/3K6pRlt
+Problem:  - Link: https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6
+Problem:  - Link: https://leetcode.com/problems/merge-intervals/
+Problem:  - Link: https://bit.ly/3UM6liN
+Problem:  - Link: https://leetcode.com/problems/non-overlapping-intervals/
+Step: Step 12.2: Medium/Hard
+Problem: Introduction to Trees - Link: https://takeuforward.org/binary-tree/introduction-to-trees/
+Problem:  - Link: https://bit.ly/3EsRmTM
+Problem:  - Link: https://youtu.be/_ANrF3FJm7I
+Problem: Binary Tree Representation in C++ - Link: https://takeuforward.org/binary-tree/binary-tree-representation-in-c/
+Problem:  - Link: https://bit.ly/3gn5Soh
+Problem:  - Link: https://youtu.be/ctCpP0RFDFc
+Problem: Binary Tree Representation in Java - Link: https://takeuforward.org/binary-tree/binary-tree-representation-in-java/
+Problem:  - Link: https://bit.ly/3gn5Soh
+Problem:  - Link: https://youtu.be/hyLyW7rP24I
+Problem: Binary Tree Traversals in Binary Tree - Link: https://takeuforward.org/binary-tree/binary-tree-traversal-inorder-preorder-postorder/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/jmy0LaGET1I
+Problem: Preorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/RlUu72JrOCQ
+Problem:  - Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
+Problem: Inorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3QzNDbU
+Problem:  - Link: https://youtu.be/Z_NEgBgbRVI
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Post-order Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3SZauQ4
+Problem:  - Link: https://youtu.be/COQOU6klsBg
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Level order Traversal / Level order traversal in spiral form - Link: https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3K6t9VR
+Problem:  - Link: https://youtu.be/EoAsWbO7sqg
+Problem:  - Link: https://leetcode.com/problems/binary-tree-level-order-traversal/
+Problem: Iterative Preorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/Bfqd8BsPVuw
+Problem:  - Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
+Problem: Iterative Inorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3QzNDbU
+Problem:  - Link: https://youtu.be/lxTGsVXjwvM
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Post-order Traversal of Binary Tree using 2 stack - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb5Wjz
+Problem:  - Link: https://youtu.be/2YBhNLodD8Q
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Post-order Traversal of Binary Tree using 1 stack - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3SZauQ4
+Problem:  - Link: https://youtu.be/NzIGLLwZBS8
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Preorder, Inorder, and Postorder Traversal in one Traversal - Link: https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://youtu.be/ySp2epYvgTE
+Step: Step 13: Binary Trees [Traversals, Medium and Hard Problems]
+Problem: Introduction to Trees - Link: https://takeuforward.org/binary-tree/introduction-to-trees/
+Problem:  - Link: https://bit.ly/3EsRmTM
+Problem:  - Link: https://youtu.be/_ANrF3FJm7I
+Problem: Binary Tree Representation in C++ - Link: https://takeuforward.org/binary-tree/binary-tree-representation-in-c/
+Problem:  - Link: https://bit.ly/3gn5Soh
+Problem:  - Link: https://youtu.be/ctCpP0RFDFc
+Problem: Binary Tree Representation in Java - Link: https://takeuforward.org/binary-tree/binary-tree-representation-in-java/
+Problem:  - Link: https://bit.ly/3gn5Soh
+Problem:  - Link: https://youtu.be/hyLyW7rP24I
+Problem: Binary Tree Traversals in Binary Tree - Link: https://takeuforward.org/binary-tree/binary-tree-traversal-inorder-preorder-postorder/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/jmy0LaGET1I
+Problem: Preorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/RlUu72JrOCQ
+Problem:  - Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
+Problem: Inorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3QzNDbU
+Problem:  - Link: https://youtu.be/Z_NEgBgbRVI
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Post-order Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3SZauQ4
+Problem:  - Link: https://youtu.be/COQOU6klsBg
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Level order Traversal / Level order traversal in spiral form - Link: https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3K6t9VR
+Problem:  - Link: https://youtu.be/EoAsWbO7sqg
+Problem:  - Link: https://leetcode.com/problems/binary-tree-level-order-traversal/
+Problem: Iterative Preorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb4VIh
+Problem:  - Link: https://youtu.be/Bfqd8BsPVuw
+Problem:  - Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
+Problem: Iterative Inorder Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3QzNDbU
+Problem:  - Link: https://youtu.be/lxTGsVXjwvM
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Post-order Traversal of Binary Tree using 2 stack - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3Cb5Wjz
+Problem:  - Link: https://youtu.be/2YBhNLodD8Q
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Post-order Traversal of Binary Tree using 1 stack - Link: https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3SZauQ4
+Problem:  - Link: https://youtu.be/NzIGLLwZBS8
+Problem:  - Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Problem: Preorder, Inorder, and Postorder Traversal in one Traversal - Link: https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://bit.ly/3T3oW9M
+Problem:  - Link: https://youtu.be/ySp2epYvgTE
+Step: Step 13.1: Traversals
+Problem: Height of a Binary Tree - Link: https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3CitiDM
+Problem:  - Link: https://youtu.be/eD3tmO66aBA
+Problem:  - Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Problem: Check if the Binary tree is height-balanced or not - Link: https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/
+Problem:  - Link: https://bit.ly/3K9YbfB
+Problem:  - Link: https://youtu.be/Yt50Jfbd8Po
+Problem:  - Link: https://leetcode.com/problems/balanced-binary-tree/
+Problem: Diameter of Binary Tree - Link: https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3wcfG9l
+Problem:  - Link: https://youtu.be/Rezetez59Nk
+Problem:  - Link: https://leetcode.com/problems/diameter-of-binary-tree/
+Problem: Maximum path sum - Link: https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/
+Problem:  - Link: https://bit.ly/3QAFjbW
+Problem:  - Link: https://youtu.be/WszrfSwMz58
+Problem:  - Link: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+Problem: Check if two trees are identical or not - Link: https://takeuforward.org/data-structure/check-if-two-trees-are-identical/
+Problem:  - Link: https://bit.ly/3c2K52Z
+Problem:  - Link: https://youtu.be/BhuvF_-PWS0
+Problem:  - Link: https://leetcode.com/problems/same-tree/
+Problem: Zig Zag Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3K4mwn5
+Problem:  - Link: https://youtu.be/3OXWEdlIGl4
+Problem:  - Link: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+Problem: Boundary Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3AsfgOK
+Problem:  - Link: https://youtu.be/0ca1nvR0be4
+Problem:  - Link: https://leetcode.com/problems/boundary-of-binary-tree/
+Problem: Vertical Order Traversal of Binary Tree - Link: https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/
+Problem:  - Link: https://bit.ly/3pqu1er
+Problem:  - Link: https://youtu.be/q_a6lpbKJdw
+Problem:  - Link: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+Problem: Top View of Binary Tree - Link: https://takeuforward.org/data-structure/top-view-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3PsvE5T
+Problem:  - Link: https://youtu.be/Et9OCDNvJ78
+Problem: Bottom View of Binary Tree - Link: https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3Asftl0
+Problem:  - Link: https://youtu.be/0FtVY6I4pB8
+Problem: Right/Left View of Binary Tree - Link: https://takeuforward.org/data-structure/right-left-view-of-binary-tree/
+Problem:  - Link: https://bit.ly/3PCqyE9
+Problem:  - Link: https://youtu.be/KV4mRzTjlAk
+Problem:  - Link: https://leetcode.com/problems/binary-tree-right-side-view/
+Problem: Symmetric Binary Tree - Link: https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/
+Problem:  - Link: https://bit.ly/3PCqBzP
+Problem:  - Link: https://youtu.be/nKggiEpBE
+Problem:  - Link: https://leetcode.com/problems/symmetric-tree/
+Step: Step 13.2: Medium Problems
+Problem: Root to Node Path in Binary Tree - Link: https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/
+Problem:  - Link: https://bit.ly/3QA600D
+Problem:  - Link: https://youtu.be/fmflMqVOC7k
+Problem:  - Link: https://www.interviewbit.com/problems/path-to-given-node/
+Problem: LCA in Binary Tree - Link: https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/
+Problem:  - Link: https://bit.ly/3popvgG
+Problem:  - Link: https://youtu.be/_-QHfMDde90
+Problem:  - Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+Problem: Maximum width of a Binary Tree - Link: https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3dxUfZP
+Problem:  - Link: https://youtu.be/ZbybYvcVLks
+Problem:  - Link: https://leetcode.com/problems/maximum-width-of-binary-tree/
+Problem: Check for Children Sum Property - Link: https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/
+Problem:  - Link: https://bit.ly/3dEr73g
+Problem:  - Link: https://youtu.be/fnmisPM6cVo
+Problem:  - Link: https://bit.ly/3QytIu6
+Problem:  - Link: https://youtu.be/i9ORlEy6EsI
+Problem:  - Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+Problem:  - Link: https://bit.ly/3wcg7k1
+Problem:  - Link: https://youtu.be/2r5wLmQfD6g
+Problem:  - Link: https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos
+Problem: Count total Nodes in a COMPLETE Binary Tree - Link: https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/
+Problem:  - Link: https://bit.ly/3EoPFXM
+Problem:  - Link: https://youtu.be/u-yWemKGWO0
+Problem:  - Link: https://leetcode.com/problems/count-complete-tree-nodes/
+Problem:  - Link: https://bit.ly/3UVCR1U
+Problem:  - Link: https://youtu.be/9GMECGQgWrQ
+Problem: Construct Binary Tree from inorder and preorder - Link: https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/
+Problem:  - Link: https://bit.ly/3AoZ4N5
+Problem:  - Link: https://youtu.be/aZNaLrVebKQ
+Problem:  - Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+Problem: Construct the Binary Tree from Postorder and Inorder Traversal - Link: https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/
+Problem:  - Link: https://bit.ly/3wbFiTI
+Problem:  - Link: https://youtu.be/LgLRTaEMRVc
+Problem:  - Link: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+Problem: Serialize and deserialize Binary Tree - Link: https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/
+Problem:  - Link: https://bit.ly/3PqPDSE
+Problem:  - Link: https://youtu.be/-YbXySKJsX8
+Problem:  - Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+Problem: Morris Preorder Traversal of a Binary Tree - Link: https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3EORTB9
+Problem:  - Link: https://youtu.be/80Zug6D1_r4
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Morris Inorder Traversal of a Binary Tree - Link: https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/
+Problem:  - Link: https://bit.ly/3tJQiGk
+Problem:  - Link: https://youtu.be/80Zug6D1_r4
+Problem:  - Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem: Flatten Binary Tree to LinkedList - Link: https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/
+Problem:  - Link: https://bit.ly/3PFzwko
+Problem:  - Link: https://youtu.be/sWf7k1x9XR4
+Problem:  - Link: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+Step: Step 13.1: Hard Problems
+Problem:  - Link: https://bit.ly/3gprRLk
+Problem:  - Link: https://youtu.be/p7-9UvDQZ3w
+Problem:  - Link: https://bit.ly/3Bwj68U
+Problem:  - Link: https://youtu.be/KcNt6v_56cc
+Problem:  - Link: https://leetcode.com/problems/search-in-a-binary-search-tree/
+Problem:  - Link: https://bit.ly/3f9XkzZ
+Step: Step 14: Binary Search Trees [Concept and Problems]
+Problem:  - Link: https://bit.ly/3gprRLk
+Problem:  - Link: https://youtu.be/p7-9UvDQZ3w
+Problem:  - Link: https://bit.ly/3Bwj68U
+Problem:  - Link: https://youtu.be/KcNt6v_56cc
+Problem:  - Link: https://leetcode.com/problems/search-in-a-binary-search-tree/
+Problem:  - Link: https://bit.ly/3f9XkzZ
+Step: Step 14.1: Concepts
+Problem:  - Link: https://bit.ly/3BULqTJ
+Problem:  - Link: https://youtu.be/KSsk8AhdOZA
+Problem:  - Link: https://bit.ly/3TSbXXE
+Problem:  - Link: https://youtu.be/xm_W1ub-K-w
+Problem:  - Link: https://bit.ly/3SoX3aH
+Problem:  - Link: https://youtu.be/FiFiNvM29ps
+Problem:  - Link: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+Problem:  - Link: https://bit.ly/3dwYsxi
+Problem:  - Link: https://youtu.be/kouxiP_H5WE
+Problem:  - Link: https://leetcode.com/problems/delete-node-in-a-bst/
+Problem: Find K-th smallest/largest element in BST - Link: https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/
+Problem:  - Link: https://bit.ly/3LxFMdo
+Problem:  - Link: https://youtu.be/9TJYWh0adfk
+Problem:  - Link: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Problem:  - Link: https://bit.ly/3poHDqN
+Problem:  - Link: https://youtu.be/f-sj7I5oXEI
+Problem:  - Link: https://leetcode.com/problems/validate-binary-search-tree/
+Problem:  - Link: https://bit.ly/3qRwTC1
+Problem:  - Link: https://youtu.be/cX_kPV_foZc
+Problem:  - Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+Problem:  - Link: https://bit.ly/3BSI1Un
+Problem:  - Link: https://youtu.be/UmJT3j26t1I
+Problem:  - Link: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
+Problem:  - Link: https://youtu.be/SXKAD2svfmI
+Problem:  - Link: https://leetcode.com/problems/inorder-successor-in-bst/
+Problem:  - Link: https://bit.ly/3qWZrtS
+Problem:  - Link: https://youtu.be/D2jMcmxU4bs
+Problem:  - Link: https://leetcode.com/problems/binary-search-tree-iterator/
+Problem:  - Link: https://bit.ly/3BUyCg6
+Problem:  - Link: https://youtu.be/ssL3sHwPeb4
+Problem:  - Link: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+Problem:  - Link: https://bit.ly/3PBJwea
+Problem:  - Link: https://youtu.be/ZWGW7FminDM
+Problem:  - Link: https://leetcode.com/problems/recover-binary-search-tree/
+Problem:  - Link: https://bit.ly/3LxECPd
+Problem:  - Link: https://youtu.be/X0oXMdtUDwo
+Step: Step 14.2: Practice Problems
+Problem: Graph and Types - Link: https://takeuforward.org/graph/introduction-to-graph/
+Problem:  - Link: https://bit.ly/3gpY19t
+Problem:  - Link: https://youtu.be/M3_pLsDdeuU
+Problem: Graph Representation | C++ - Link: https://takeuforward.org/graph/graph-representation-in-c/
+Problem:  - Link: https://bit.ly/3dGuwyv
+Problem:  - Link: https://youtu.be/3oI-34aPMWM
+Problem:  - Link: https://bit.ly/3dGuwyv
+Problem:  - Link: https://youtu.be/3oI-34aPMWM
+Problem: Connected Components | Logic Explanation - Link: https://takeuforward.org/graph/connected-components-in-graphs/
+Problem:  - Link: https://bit.ly/3AxzhDG
+Problem:  - Link: https://youtu.be/lea-Wl_uWXY
+Problem: BFS - Link: https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bfs_of_graph
+Problem:  - Link: https://youtu.be/-tgVpUgsQ5k
+Problem: DFS - Link: https://takeuforward.org/data-structure/depth-first-search-dfs/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=dfs_of_graph
+Problem:  - Link: https://youtu.be/Qzf1a--rhp8
+Step: Step 15: Graphs [Concepts & Problems]
+Problem: Graph and Types - Link: https://takeuforward.org/graph/introduction-to-graph/
+Problem:  - Link: https://bit.ly/3gpY19t
+Problem:  - Link: https://youtu.be/M3_pLsDdeuU
+Problem: Graph Representation | C++ - Link: https://takeuforward.org/graph/graph-representation-in-c/
+Problem:  - Link: https://bit.ly/3dGuwyv
+Problem:  - Link: https://youtu.be/3oI-34aPMWM
+Problem:  - Link: https://bit.ly/3dGuwyv
+Problem:  - Link: https://youtu.be/3oI-34aPMWM
+Problem: Connected Components | Logic Explanation - Link: https://takeuforward.org/graph/connected-components-in-graphs/
+Problem:  - Link: https://bit.ly/3AxzhDG
+Problem:  - Link: https://youtu.be/lea-Wl_uWXY
+Problem: BFS - Link: https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bfs_of_graph
+Problem:  - Link: https://youtu.be/-tgVpUgsQ5k
+Problem: DFS - Link: https://takeuforward.org/data-structure/depth-first-search-dfs/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=dfs_of_graph
+Problem:  - Link: https://youtu.be/Qzf1a--rhp8
+Step: Step 15.1: Learning
+Problem: Number of provinces (leetcode) - Link: https://takeuforward.org/data-structure/number-of-provinces/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/number-of-provinces/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number_of_provinces
+Problem:  - Link: https://youtu.be/ACzkVtewUYA
+Problem:  - Link: https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.
+Problem:  - Link: https://bit.ly/3AxzhDG
+Problem: Rotten Oranges - Link: https://takeuforward.org/data-structure/rotten-oranges/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rotten_oranges
+Problem:  - Link: https://youtu.be/yf3oUhkvqA0
+Problem:  - Link: https://leetcode.com/problems/rotting-oranges/
+Problem: Flood fill - Link: https://takeuforward.org/graph/flood-fill-algorithm-graphs/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flood-fill-algorithm
+Problem:  - Link: https://youtu.be/C-2_uSRli8o
+Problem:  - Link: https://leetcode.com/problems/flood-fill/
+Problem: Cycle Detection in unirected Graph (bfs) - Link: https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph
+Problem:  - Link: https://youtu.be/BPlrALf1LDU
+Problem: Cycle Detection in undirected Graph (dfs) - Link: https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph
+Problem:  - Link: https://youtu.be/zQ3zgFypzX4
+Problem: 0/1 Matrix (Bfs Problem) - Link: https://takeuforward.org/graph/distance-of-nearest-cell-having-1/
+Problem:  - Link: https://bit.ly/3Lw8Emp
+Problem:  - Link: https://www.youtube.com/watch?v=edXdVwkYHF8
+Problem:  - Link: https://leetcode.com/problems/01-matrix/
+Problem: Surrounded Regions (dfs) - Link: https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/
+Problem:  - Link: https://bit.ly/3T3oDLR
+Problem:  - Link: https://www.youtube.com/watch?v=BtdgAys4yMk
+Problem:  - Link: https://leetcode.com/problems/surrounded-regions/
+Problem: Number of Enclaves - Link: https://takeuforward.org/graph/number-of-enclaves/
+Problem:  - Link: https://bit.ly/3LA59uX
+Problem:  - Link: https://www.youtube.com/watch?v=rxKcepXQgU4
+Problem:  - Link: https://leetcode.com/problems/number-of-enclaves/
+Problem: Word ladder – 1 - Link: https://takeuforward.org/graph/word-ladder-i-g-29/
+Problem:  - Link: https://bit.ly/3BE8tke
+Problem:  - Link: https://leetcode.com/problems/word-ladder/
+Problem: Word ladder – 2 - Link: https://takeuforward.org/graph/word-ladder-ii-optimised-approach-g-31/
+Problem:  - Link: https://bit.ly/3fdDxzC
+Problem:  - Link: https://leetcode.com/problems/word-ladder-ii/
+Problem: Number of Distinct Islands [dfs multisource] - Link: https://takeuforward.org/data-structure/number-of-distinct-islands/
+Problem:  - Link: https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1
+Problem:  - Link: https://leetcode.com/problems/number-of-distinct-islands-ii/
+Problem: Bipartite Graph (DFS) - Link: https://takeuforward.org/graph/bipartite-graph-dfs-implementation/
+Problem:  - Link: https://bit.ly/3QZN2jf
+Problem:  - Link: https://www.youtube.com/watch?v=KG5YFfR0j8A
+Problem:  - Link: https://leetcode.com/problems/is-graph-bipartite/
+Problem: Cycle Detection in Directed Graph (DFS) - Link: https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/
+Problem:  - Link: https://bit.ly/3S01qt8
+Problem:  - Link: https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem
+Step: Step 15.2: Problems on BFS/DFS
+Problem: Topo Sort - Link: https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/
+Problem:  - Link: https://bit.ly/3S02dKC
+Problem:  - Link: https://www.youtube.com/watch?v=5lZ0iJMrUMk&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=21
+Problem: Kahn’s Algorithm - Link: https://takeuforward.org/data-structure/kahns-algorithm-topological-sort-algorithm-bfs-g-22/
+Problem:  - Link: https://bit.ly/3c690mm
+Problem:  - Link: https://www.youtube.com/watch?v=73sneFXuTEg&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=22
+Problem:  - Link: https://bit.ly/3DK3elS
+Problem:  - Link: https://www.youtube.com/watch?v=iTBaI90lpDQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=23
+Problem: Course Schedule – I - Link: https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/
+Problem:  - Link: https://bit.ly/3SpUd5m
+Problem:  - Link: https://www.youtube.com/watch?v=WAOfKpxYHR8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=24
+Problem:  - Link: https://leetcode.com/problems/course-schedule/
+Problem: Course Schedule – II - Link: https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/
+Problem:  - Link: https://bit.ly/3w8ZBBl
+Problem:  - Link: https://www.youtube.com/watch?v=WAOfKpxYHR8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=24
+Problem:  - Link: https://leetcode.com/problems/course-schedule-ii/
+Problem: Find eventual safe states - Link: https://takeuforward.org/data-structure/find-eventual-safe-states-bfs-topological-sort-g-25/
+Problem:  - Link: https://bit.ly/3S6TE0w
+Problem:  - Link: https://www.youtube.com/watch?v=2gtg3VsDGyc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=25
+Problem:  - Link: https://leetcode.com/problems/find-eventual-safe-states/
+Problem: Alien dictionary - Link: https://takeuforward.org/data-structure/alien-dictionary-topological-sort-g-26/
+Problem:  - Link: https://bit.ly/3LwfXdP
+Problem:  - Link: https://www.youtube.com/watch?v=U3N_je7tWAs&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=26
+Problem:  - Link: https://leetcode.com/problems/alien-dictionary/solution/
+Step: Step 15.3: Topo Sort and Problems
+Problem: Shortest Path in UG with unit weights - Link: https://takeuforward.org/data-structure/shortest-path-in-undirected-graph-with-unit-distance-g-28/
+Problem:  - Link: https://bit.ly/3UVQD4C
+Problem:  - Link: https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28
+Problem: Shortest Path in DAG - Link: https://takeuforward.org/data-structure/shortest-path-in-directed-acyclic-graph-topological-sort-g-27/
+Problem:  - Link: https://bit.ly/3Eo1mhq
+Problem:  - Link: https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27
+Problem: Djisktra’s Algorithm - Link: https://takeuforward.org/data-structure/g-35-print-shortest-path-dijkstras-algorithm/
+Problem:  - Link: https://bit.ly/3UsjnST
+Problem:  - Link: https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35
+Problem: Why priority Queue is used in Djisktra’s Algorithm - Link: https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32/
+Problem:  - Link: https://bit.ly/3UsjnST
+Problem:  - Link: https://www.youtube.com/watch?v=V6H1qAeB-l4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=32
+Problem: Shortest path in a binary maze - Link: https://takeuforward.org/data-structure/g-36-shortest-distance-in-a-binary-maze/
+Problem:  - Link: https://bit.ly/3ArrkzD
+Problem:  - Link: https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36
+Problem:  - Link: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+Problem: Path with minimum effort - Link: https://takeuforward.org/data-structure/g-37-path-with-minimum-effort/
+Problem:  - Link: https://bit.ly/3OpIfbh
+Problem:  - Link: https://www.youtube.com/watch?v=0ytpZyiZFhA&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=37
+Problem:  - Link: https://leetcode.com/problems/path-with-minimum-effort/
+Problem: Cheapest flights within k stops - Link: https://takeuforward.org/data-structure/g-38-cheapest-flights-within-k-stops/
+Problem:  - Link: https://bit.ly/3OnPWi4
+Problem:  - Link: https://www.youtube.com/watch?v=9XybHVqTHcQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=38
+Problem:  - Link: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+Problem:  - Link: https://bit.ly/3pr6ObZ
+Problem:  - Link: https://leetcode.com/problems/network-delay-time/
+Problem: Number of ways to arrive at destination - Link: https://takeuforward.org/data-structure/g-40-number-of-ways-to-arrive-at-destination/
+Problem:  - Link: https://bit.ly/3Soi85j-arrive-at-destination/1
+Problem:  - Link: https://www.youtube.com/watch?v=_-0mx0SmYxA&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=40
+Problem:  - Link: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+Problem: Minimum steps to reach end from start by performing multiplication and mod operations with array elements - Link: https://takeuforward.org/graph/g-39-minimum-multiplications-to-reach-end/
+Problem:  - Link: https://bit.ly/3QAEsrY
+Problem:  - Link: https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39
+Problem: Bellman Ford Algorithm - Link: https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
+Problem:  - Link: https://bit.ly/3C0SxKs
+Problem:  - Link: https://www.youtube.com/watch?v=0vVofAhAYjc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=41
+Problem: Floyd Warshal Algorithm - Link: https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
+Problem:  - Link: https://bit.ly/3LwgdJP
+Problem:  - Link: https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42
+Problem: Find the city with the smallest number of neighbors in a threshold distance - Link: https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/
+Problem:  - Link: https://bit.ly/3Lwr5Y4
+Problem:  - Link: https://youtu.be/PwMVNSJ5SLI
+Problem:  - Link: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+Step: Step 15.4: Shortest Path Algorithms and Problems
+Problem: Minimum Spanning Tree - Link: https://takeuforward.org/data-structure/minimum-spanning-tree-theory-g-44/
+Problem:  - Link: https://bit.ly/3R2Xhn1
+Problem:  - Link: https://www.youtube.com/watch?v=ZSPjZuZWCME&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=43
+Problem: Prim’s Algorithm - Link: https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
+Problem:  - Link: https://bit.ly/3R2Xhn1
+Problem:  - Link: https://www.youtube.com/watch?v=mJcZjjKzeqk&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=44
+Problem: Disjoint Set [Union by Rank] - Link: https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
+Problem:  - Link: https://bit.ly/3QSGvHz
+Problem:  - Link: https://youtu.be/aBxjDBC4M1U
+Problem: Disjoint Set [Union by Size] - Link: https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
+Problem:  - Link: https://bit.ly/3QSGvHz
+Problem:  - Link: https://youtu.be/aBxjDBC4M1U
+Problem: Kruskal’s Algorithm - Link: https://takeuforward.org/data-structure/kruskals-algorithm-minimum-spanning-tree-g-47/
+Problem:  - Link: https://bit.ly/3R2Xhn1
+Problem:  - Link: https://youtu.be/DMnDM_sxVig
+Problem: Number of operations to make network connected - Link: https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/
+Problem:  - Link: https://bit.ly/3Esuzrd
+Problem:  - Link: https://youtu.be/FYrl7iz9_ZU
+Problem:  - Link: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+Problem: Most stones removed with same rows or columns - Link: https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/
+Problem:  - Link: https://bit.ly/3Ep4Tfo
+Problem:  - Link: https://youtu.be/OwMNX8SPavM
+Problem:  - Link: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+Problem: Accounts merge - Link: https://takeuforward.org/data-structure/accounts-merge-dsu-g-50/
+Problem:  - Link: https://bit.ly/3C03qMi
+Problem:  - Link: https://youtu.be/FMwpt_aQOGw
+Problem:  - Link: https://leetcode.com/problems/accounts-merge/
+Problem: Number of island II - Link: https://takeuforward.org/graph/number-of-islands-ii-online-queries-dsu-g-51/
+Problem:  - Link: https://bit.ly/3A7BofH
+Problem:  - Link: https://youtu.be/Rn6B-Q4SNyA
+Problem:  - Link: https://leetcode.com/problems/number-of-islands-ii/
+Problem: Making a Large Island - Link: https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/
+Problem:  - Link: https://bit.ly/3i1yOmk
+Problem:  - Link: https://youtu.be/lgiz0Oup6gM
+Problem:  - Link: https://leetcode.com/problems/making-a-large-island/
+Problem:  - Link: https://bit.ly/3VftZ7i
+Problem:  - Link: https://leetcode.com/problems/swim-in-rising-water/
+Step: Step 15.5: MinimumSpanningTree/Disjoint Set and Problems
+Problem: Bridges in Graph - Link: https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55/
+Problem:  - Link: https://bit.ly/3dFdvVe
+Problem:  - Link: https://youtu.be/qrAub5z8FeA
+Problem:  - Link: https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph
+Problem: Articulation Point - Link: https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/
+Problem:  - Link: https://bit.ly/3T2LPKu
+Problem:  - Link: https://youtu.be/j1QDfU21iZk
+Problem: Kosaraju’s Algorithm - Link: https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
+Problem:  - Link: https://bit.ly/3TbvByL
+Problem:  - Link: https://youtu.be/R6uoSjZ2imo
+Step: Step 15.6: Other Algorithms
+Problem: Dynamic Programming Introduction - Link: https://takeuforward.org/data-structure/dynamic-programming-introduction/
+Problem:  - Link: https://bit.ly/3UWkWrS
+Problem:  - Link: https://youtu.be/tyB0ztf0DNY
+Step: Step 16: Dynamic Programming [Patterns and Problems]
+Problem: Dynamic Programming Introduction - Link: https://takeuforward.org/data-structure/dynamic-programming-introduction/
+Problem:  - Link: https://bit.ly/3UWkWrS
+Problem:  - Link: https://youtu.be/tyB0ztf0DNY
+Step: Step 16.1: Introduction to DP
+Problem: Climbing Stars - Link: https://takeuforward.org/data-structure/dynamic-programming-climbing-stairs/
+Problem:  - Link: https://bit.ly/3DLrBQ2
+Problem:  - Link: https://youtu.be/mLfjzJsN8us
+Problem:  - Link: https://leetcode.com/problems/climbing-stairs/
+Problem: Frog Jump(DP-3) - Link: https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/
+Problem:  - Link: https://bit.ly/3Xn0Kkw
+Problem:  - Link: https://www.youtube.com/watch?v=EgG3jsGoPvQ
+Problem: Frog Jump with k distances(DP-4) - Link: https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/
+Problem:  - Link: https://bit.ly/3GyNRya
+Problem:  - Link: https://www.youtube.com/watch?v=Kmh3rhyEtB8
+Problem: Maximum sum of non-adjacent elements (DP 5) - Link: https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/
+Problem:  - Link: https://bit.ly/3QOMRs1
+Problem:  - Link: https://www.youtube.com/watch?v=GrMBfJNk_NY
+Problem: House Robber (DP 6) - Link: https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/
+Problem:  - Link: https://bit.ly/3QCCpDQ
+Problem:  - Link: https://www.youtube.com/watch?v=3WaxQMELSkw
+Step: Step 16.2: 1D DP
+Problem: Ninja’s Training (DP 7) - Link: https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/
+Problem:  - Link: https://bit.ly/3glc9kp
+Problem:  - Link: https://www.youtube.com/watch?v=AE39gJYuRog
+Problem: Grid Unique Paths : DP on Grids (DP8) - Link: https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/
+Problem:  - Link: https://bit.ly/3BsNkJO
+Problem:  - Link: https://www.youtube.com/watch?v=sdE0A2Oxofw
+Problem:  - Link: https://leetcode.com/problems/unique-paths/
+Problem: Grid Unique Paths 2 (DP 9) - Link: https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/
+Problem:  - Link: https://bit.ly/3tNYlBU
+Problem:  - Link: https://www.youtube.com/watch?v=TmhpgXScLyY
+Problem:  - Link: https://leetcode.com/problems/unique-paths-ii/
+Problem: Minimum path sum in Grid (DP 10) - Link: https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/
+Problem:  - Link: https://bit.ly/3c1H9Uf
+Problem:  - Link: https://www.youtube.com/watch?v=_rgTlyky1uQ
+Problem:  - Link: https://leetcode.com/problems/minimum-path-sum/
+Problem: Minimum path sum in Triangular Grid (DP 11) - Link: https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/
+Problem:  - Link: https://bit.ly/3VaQIkI
+Problem:  - Link: https://www.youtube.com/watch?v=SrP-PiLSYC0
+Problem:  - Link: https://leetcode.com/problems/triangle/
+Problem: Minimum/Maximum Falling Path Sum (DP-12) - Link: https://takeuforward.org/data-structure/minimum-maximum-falling-path-sum-dp-12/
+Problem:  - Link: https://bit.ly/3PwqvtO
+Problem:  - Link: https://www.youtube.com/watch?v=N_aJ5qQbYA0
+Problem:  - Link: https://leetcode.com/problems/minimum-falling-path-sum/
+Problem: 3-d DP : Ninja and his friends (DP-13) - Link: https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/
+Problem:  - Link: https://bit.ly/3U9k6XT
+Problem:  - Link: https://www.youtube.com/watch?v=QGfn7JeXK54
+Step: Step 16.3: 2D/3D DP and DP on Grids
+Problem: Subset sum equal to target (DP- 14) - Link: https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/
+Problem:  - Link: https://bit.ly/3S6ljPd
+Problem:  - Link: https://www.youtube.com/watch?v=fWX9xDmIzRI
+Problem: Partition Equal Subset Sum (DP- 15) - Link: https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/
+Problem:  - Link: https://bit.ly/3E14123
+Problem:  - Link: https://www.youtube.com/watch?v=7win3dcgo3k
+Problem:  - Link: https://leetcode.com/problems/partition-equal-subset-sum/
+Problem: Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16) - Link: https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/
+Problem:  - Link: https://bit.ly/3S6uVtg
+Problem:  - Link: https://www.youtube.com/watch?v=GS_OqZb2CWc
+Problem:  - Link: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+Problem: Count Subsets with Sum K (DP – 17) - Link: https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/
+Problem:  - Link: https://bit.ly/3AwVr8I
+Problem:  - Link: https://www.youtube.com/watch?v=ZHyb-A2Mte4
+Problem: Count Partitions with Given Difference (DP – 18) - Link: https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/
+Problem:  - Link: https://bit.ly/3gkAM0s
+Problem:  - Link: https://www.youtube.com/watch?v=zoilQD1kYSg
+Problem: 0/1 Knapsack (DP – 19) - Link: https://takeuforward.org/data-structure/0-1-knapsack-dp-19/
+Problem:  - Link: https://bit.ly/3BZTjXT
+Problem:  - Link: https://www.youtube.com/watch?v=GqOmJHQZivw
+Problem: Minimum Coins (DP – 20) - Link: https://takeuforward.org/data-structure/minimum-coins-dp-20/
+Problem:  - Link: https://bit.ly/3UG0egq
+Problem:  - Link: https://www.youtube.com/watch?v=myPeWb3Y68A
+Problem:  - Link: https://leetcode.com/problems/coin-change/
+Problem: Target Sum (DP – 21) - Link: https://takeuforward.org/data-structure/target-sum-dp-21/
+Problem:  - Link: https://bit.ly/3BxB2jr
+Problem:  - Link: https://www.youtube.com/watch?v=b3GD8263-PQ
+Problem:  - Link: https://leetcode.com/problems/target-sum/
+Problem: Coin Change 2 (DP – 22) - Link: https://takeuforward.org/data-structure/coin-change-2-dp-22/
+Problem:  - Link: https://bit.ly/3SZJWOl
+Problem:  - Link: https://www.youtube.com/watch?v=HgyouUi11zk
+Problem:  - Link: https://leetcode.com/problems/coin-change-2/
+Problem: Unbounded Knapsack (DP – 23) - Link: https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/
+Problem:  - Link: https://bit.ly/3Cbc5fz
+Problem:  - Link: https://youtu.be/OgvOZ6OrJoY
+Problem: Rod Cutting Problem | (DP – 24) - Link: https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/
+Problem:  - Link: https://bit.ly/3R1TXZh
+Problem:  - Link: https://youtu.be/mO8XpGoJwuo
+Step: Step 16.4: DP on Subsequences
+Problem: Longest Common Subsequence | (DP – 25) - Link: https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/
+Problem:  - Link: https://bit.ly/3f6eDlE
+Problem:  - Link: https://youtu.be/NPZn9jBrX8U
+Problem:  - Link: https://leetcode.com/problems/longest-common-subsequence/
+Problem: Print Longest Common Subsequence | (DP – 26) - Link: https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/
+Problem:  - Link: https://bit.ly/3T1Va4U
+Problem:  - Link: https://youtu.be/-zI4mrF2Pb4
+Problem: Longest Common Substring | (DP – 27) - Link: https://takeuforward.org/data-structure/longest-common-substring-dp-27/
+Problem:  - Link: https://bit.ly/3qYUeBK
+Problem:  - Link: https://youtu.be/_wP9mWNPL5w
+Problem: Longest Palindromic Subsequence | (DP-28) - Link: https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/
+Problem:  - Link: https://bit.ly/3SndYdP
+Problem:  - Link: https://youtu.be/6i_T5kkfv4A
+Problem:  - Link: https://leetcode.com/problems/longest-palindromic-subsequence/
+Problem: Minimum insertions to make string palindrome | DP-29 - Link: https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/
+Problem:  - Link: https://bit.ly/3S6ekWx
+Problem:  - Link: https://www.youtube.com/watch?v=xPBLEj41rFU
+Problem:  - Link: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+Problem: Minimum Insertions/Deletions to Convert String | (DP- 30) - Link: https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/
+Problem:  - Link: https://bit.ly/3UwoktW
+Problem:  - Link: https://www.youtube.com/watch?v=yMnH0jrir0Q
+Problem:  - Link: https://leetcode.com/problems/delete-operation-for-two-strings/
+Problem: Shortest Common Supersequence | (DP – 31) - Link: https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/
+Problem:  - Link: https://bit.ly/3R8AIxc
+Problem:  - Link: https://youtu.be/xElxAuBcvsU
+Problem:  - Link: https://leetcode.com/problems/shortest-common-supersequence/
+Problem: Distinct Subsequences| (DP-32) - Link: https://takeuforward.org/data-structure/distinct-subsequences-dp-32/
+Problem:  - Link: https://bit.ly/3Lz0Wry
+Problem:  - Link: https://youtu.be/nVG7eTiD2bY
+Problem:  - Link: https://leetcode.com/problems/distinct-subsequences/
+Problem: Edit Distance | (DP-33) - Link: https://takeuforward.org/data-structure/edit-distance-dp-33/
+Problem:  - Link: https://bit.ly/3qZueWY
+Problem:  - Link: https://youtu.be/fJaKO8FbDdo
+Problem:  - Link: https://leetcode.com/problems/edit-distance/
+Problem: Wildcard Matching | (DP-34) - Link: https://takeuforward.org/data-structure/wildcard-matching-dp-34/
+Problem:  - Link: https://bit.ly/3R2Zfnp
+Problem:  - Link: https://youtu.be/ZmlQ3vgAOMo
+Problem:  - Link: https://leetcode.com/problems/wildcard-matching/
+Step: Step 16.5: DP on Strings
+Problem: Best Time to Buy and Sell Stock |(DP-35) - Link: https://takeuforward.org/data-structure/stock-buy-and-sell-dp-35/
+Problem:  - Link: https://bit.ly/3xI7ajb
+Problem:  - Link: https://youtu.be/excAOvwF_Wk
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Problem: Buy and Sell Stock – II|(DP-36) - Link: https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/
+Problem:  - Link: https://bit.ly/3gkV5en
+Problem:  - Link: https://youtu.be/nGJmxkUJQGs
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+Problem: Buy and Sell Stocks III|(DP-37) - Link: https://takeuforward.org/data-structure/buy-and-sell-stock-iii-dp-37/
+Problem:  - Link: https://bit.ly/3qZaYZs
+Problem:  - Link: https://youtu.be/-uQGzhYj8BQ
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+Problem: Buy and Stock Sell IV |(DP-38) - Link: https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/
+Problem:  - Link: https://bit.ly/3SpU1TE
+Problem:  - Link: https://youtu.be/IV1dHbk5CDc
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+Problem: Buy and Sell Stocks With Cooldown|(DP-39) - Link: https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/
+Problem:  - Link: https://bit.ly/3GycvyA
+Problem:  - Link: https://youtu.be/IGIe46xw3YY
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+Problem: Buy and Sell Stocks With Transaction Fee|(DP-40) - Link: https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/
+Problem:  - Link: https://bit.ly/3AwUkpe
+Problem:  - Link: https://youtu.be/k4eK-vEmnKg
+Problem:  - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+Step: Step 16.6: DP on Stocks
+Problem: Longest Increasing Subsequence |(DP-41) - Link: https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/
+Problem:  - Link: https://bit.ly/3eYunab
+Problem:  - Link: https://youtu.be/ekcwMsSIzVc
+Problem:  - Link: https://leetcode.com/problems/longest-increasing-subsequence/
+Problem: Printing Longest Increasing Subsequence|(DP-42) - Link: https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/
+Problem:  - Link: https://bit.ly/3XiRbmG
+Problem:  - Link: https://youtu.be/IFfYfonAFGc
+Problem: Longest Increasing Subsequence |(DP-43) - Link: https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/
+Problem:  - Link: https://bit.ly/3Pxf84L
+Problem:  - Link: https://youtu.be/on2hvxBXJH4
+Problem: Largest Divisible Subset|(DP-44) - Link: https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/
+Problem:  - Link: https://bit.ly/3hYsWKC
+Problem:  - Link: https://youtu.be/gDuZwBW9VvM
+Problem:  - Link: https://leetcode.com/problems/largest-divisible-subset/
+Problem: Longest String Chain|(DP-45) - Link: https://takeuforward.org/data-structure/longest-string-chain-dp-45/
+Problem:  - Link: https://bit.ly/3TSqOkS
+Problem:  - Link: https://youtu.be/YY8iBaYcc4g
+Problem:  - Link: https://leetcode.com/problems/longest-string-chain/
+Problem: Longest Bitonic Subsequence |(DP-46) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3BARIGF
+Problem:  - Link: https://youtu.be/y4vN0WNdrlg
+Problem: Number of Longest Increasing Subsequences|(DP-47) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3EohD60
+Problem:  - Link: https://youtu.be/cKVl1TFdNXg
+Problem:  - Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+Step: Step 16.7: DP on LIS
+Problem: Matrix Chain Multiplication|(DP-48) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3Cgg36D
+Problem:  - Link: https://youtu.be/vRVfmbCFW7Y
+Problem: Matrix Chain Multiplication | Bottom-Up|(DP-49) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3Cgg36D
+Problem:  - Link: https://youtu.be/pDCXsbAw5Cg
+Problem: Minimum Cost to Cut the Stick|(DP-50) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3K3ItCE
+Problem:  - Link: https://youtu.be/xwomavsC86c
+Problem:  - Link: https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+Problem: Burst Balloons|(DP-51) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3A9LdKp
+Problem:  - Link: https://youtu.be/Yz4LlDSlkns
+Problem:  - Link: https://leetcode.com/problems/burst-balloons/
+Problem: Evaluate Boolean Expression to True|(DP-52) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3QFAe2o
+Problem:  - Link: https://youtu.be/MM7fXopgyjw
+Problem:  - Link: https://leetcode.com/problems/parsing-a-boolean-expression/
+Problem: Palindrome Partitioning – II|(DP-53) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3QP6gsc
+Problem:  - Link: https://youtu.be/_H8V5hJUGd0
+Problem:  - Link: https://leetcode.com/problems/palindrome-partitioning-ii/
+Problem: Partition Array for Maximum Sum|(DP-54) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3AUSIGj
+Problem:  - Link: https://youtu.be/PhWWJmaKfMc
+Problem:  - Link: https://leetcode.com/problems/partition-array-for-maximum-sum/
+Step: Step 16.8: MCM DP | Partition DP
+Problem: Maximum Rectangle Area with all 1’s|(DP-55) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3BY0ShY
+Problem:  - Link: https://youtu.be/tOylVCugy9k
+Problem:  - Link: https://leetcode.com/problems/maximal-rectangle/
+Problem: Count Square Submatrices with All Ones|(DP-56) - Link: https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#
+Problem:  - Link: https://bit.ly/3UW7u7o
+Problem:  - Link: https://youtu.be/auS1fynpnjo
+Problem:  - Link: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+Step: Step 16.9: DP on Squares
+Problem: Implement TRIE | INSERT | SEARCH | STARTSWITH - Link: https://takeuforward.org/data-structure/implement-trie-1/
+Problem:  - Link: https://bit.ly/3pqacEj
+Problem:  - Link: https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp
+Problem:  - Link: https://leetcode.com/problems/implement-trie-prefix-tree/
+Step: Step 17: Tries [Concepts and Problems]
+Problem: Implement TRIE | INSERT | SEARCH | STARTSWITH - Link: https://takeuforward.org/data-structure/implement-trie-1/
+Problem:  - Link: https://bit.ly/3pqacEj
+Problem:  - Link: https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp
+Problem:  - Link: https://leetcode.com/problems/implement-trie-prefix-tree/
+Step: Step 17.1: Theory
+Problem: Implement Trie – 2 (Prefix Tree) - Link: https://takeuforward.org/data-structure/implement-trie-ii/
+Problem:  - Link: https://bit.ly/3SUAiwJ
+Problem:  - Link: https://bit.ly/3Qx5AYB
+Problem:  - Link: https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3
+Problem: Number of Distinct Substrings in a String - Link: https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/
+Problem:  - Link: https://bit.ly/3UoqdsB
+Problem:  - Link: https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4
+Problem:  - Link: https://bit.ly/3Vw4XB1
+Problem:  - Link: https://youtu.be/5iyuU4hQFrw
+Problem: Maximum XOR of two numbers in an array - Link: https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/
+Problem:  - Link: https://bit.ly/3Bypqwp
+Problem:  - Link: https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6
+Problem:  - Link: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+Problem:  - Link: https://bit.ly/3tNYB3Y
+Problem:  - Link: https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7
+Problem:  - Link: https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+Step: Step 17.2: Problems
+Problem:  - Link: https://bit.ly/3RiQ82d
+Problem:  - Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+Problem:  - Link: https://bit.ly/3AFdLwR
+Problem:  - Link: https://leetcode.com/problems/count-and-say/
+Problem:  - Link: https://bit.ly/3glak75
+Problem:  - Link: https://bit.ly/3SkQqGw
+Problem:  - Link: https://bit.ly/3dBLAGb
+Problem:  - Link: https://bit.ly/3fdJzQM
+Problem:  - Link: https://bit.ly/3PxCaIE
+Problem:  - Link: https://leetcode.com/problems/shortest-palindrome/
+Problem:  - Link: https://bit.ly/3ptCpKi
+Problem:  - Link: https://leetcode.com/problems/longest-happy-prefix/
+Problem:  - Link: https://bit.ly/3xHw6Hs
+Step: Step 18: Strings [Hard Problems and Standard Algos]
+Problem:  - Link: https://bit.ly/3RiQ82d
+Problem:  - Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+Problem:  - Link: https://bit.ly/3AFdLwR
+Problem:  - Link: https://leetcode.com/problems/count-and-say/
+Problem:  - Link: https://bit.ly/3glak75
+Problem:  - Link: https://bit.ly/3SkQqGw
+Problem:  - Link: https://bit.ly/3dBLAGb
+Problem:  - Link: https://bit.ly/3fdJzQM
+Problem:  - Link: https://bit.ly/3PxCaIE
+Problem:  - Link: https://leetcode.com/problems/shortest-palindrome/
+Problem:  - Link: https://bit.ly/3ptCpKi
+Problem:  - Link: https://leetcode.com/problems/longest-happy-prefix/
+Problem:  - Link: https://bit.ly/3xHw6Hs
+Step: Step 18.1: Hard Problems
+No substeps found for this step.
+Step: Step 19: Request from Striver
+No substeps found for this step.
